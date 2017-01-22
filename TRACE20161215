@@ -1,0 +1,1576 @@
+[09:19:07] : [7]22:21-[delete from `arenaBrp` where `index` = 9916 ] -> 1
+[09:19:07] : [7]22:20-[delete from `arenaBrp` where `index` = 9918 ] -> 1
+[09:19:07] : [7]22:19-[delete from `arenaBrp` where `index` = 9919 ] -> 1
+[09:19:07] : [7]22:18-[delete from `arenaBrp` where `index` = 9920 ] -> 1
+[09:19:07] : [7]22:17-[delete from `arenaBrp` where `index` = 9928 ] -> 1
+[09:19:07] : [7]22:16-[delete from `arenaBrp` where `index` = 9929 ] -> 1
+[09:19:07] : [7]22:15-[delete from `arenaBrp` where `index` = 9930 ] -> 1
+[09:19:07] : [7]22:14-[delete from `arenaBrp` where `index` = 9931 ] -> 1
+[09:19:07] : [7]22:13-[delete from `arenaBrp` where `index` = 9932 ] -> 1
+[09:19:07] : [7]22:12-[delete from `arenaBrp` where `index` = 9935 ] -> 1
+[09:19:07] : [7]22:11-[delete from `arenaBrp` where `index` = 9936 ] -> 1
+[09:19:07] : [7]22:10-[delete from `arenaBrp` where `index` = 9937 ] -> 1
+[09:19:07] : [7]22:9-[delete from `arenaBrp` where `index` = 9938 ] -> 1
+[09:19:07] : [7]22:8-[delete from `arenaBrp` where `index` = 9939 ] -> 1
+[09:19:07] : [7]22:7-[delete from `arenaBrp` where `index` = 9940 ] -> 1
+[09:19:07] : [7]22:6-[delete from `arenaBrp` where `index` = 9941 ] -> 1
+[09:19:07] : [7]22:5-[delete from `arenaBrp` where `index` = 9942 ] -> 1
+[09:19:07] : [7]22:4-[delete from `arenaBrp` where `index` = 9943 ] -> 1
+[09:19:07] : [7]22:3-[delete from `arenaBrp` where `index` = 9944 ] -> 1
+[09:19:07] : [7]22:2-[delete from `arenaBrp` where `index` = 9945 ] -> 1
+[09:19:07] : [7]22:1-[delete from `arenaBrp` where `index` = 9946 ] -> 1
+[09:19:07] : [7]22:0-[insert into reportid values(0,1)] -> 0
+[09:19:33] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 66, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[09:19:33] : [13]3:2-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 22, 0, 1481817600)] -> 1
+[09:19:34] : [13]3:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 327680, 1481817600)] -> 1
+[09:19:34] : [13]3:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 22, 2, 1481817600)] -> 1
+[09:19:35] : [13]1:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 14, 0, 1481832000)] -> 1
+[09:19:51] : [7]1:0-[update reportid set maxid = 1211 where type = 1] -> 1
+[09:19:51] : [7]1:0-[update reportid set maxid = 1212 where type = 1] -> 1
+[09:19:52] : [7]2:1-[update reportid set maxid = 1213 where type = 1] -> 1
+[09:19:52] : [7]2:0-[update reportid set maxid = 1214 where type = 1] -> 1
+[09:19:52] : [7]1:0-[update reportid set maxid = 1215 where type = 1] -> 1
+[09:19:53] : [7]2:1-[update reportid set maxid = 1216 where type = 1] -> 1
+[09:19:53] : [7]2:0-[update reportid set maxid = 1217 where type = 1] -> 1
+[09:19:54] : [7]1:0-[update reportid set maxid = 1218 where type = 1] -> 1
+[09:19:54] : [7]4:3-[update reportid set maxid = 1219 where type = 1] -> 1
+[09:19:54] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 327681, 1481817600)] -> 1
+[09:19:54] : [7]4:2-[update reportid set maxid = 9952 where type = 0] -> 1
+[09:19:54] : [7]4:1-[delete from `arenaBrp` where `index` = 9947 ] -> 1
+[09:19:54] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481765394, 4294967295)] -> 1
+[09:19:54] : [7]4:0-[replace into `arenaBrp` values(844424930131970,9952,'碎碎念',255,2907,11935)] -> 1
+[09:21:22] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 9160, 4294967295)] -> 1
+[09:21:22] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 0, 4294967295)] -> 1
+[09:21:34] : [7]1:0-[update reportid set maxid = 1220 where type = 1] -> 1
+[09:21:35] : [7]2:1-[update reportid set maxid = 1221 where type = 1] -> 1
+[09:21:35] : [7]2:0-[update reportid set maxid = 1222 where type = 1] -> 1
+[09:21:35] : [7]3:2-[update reportid set maxid = 1223 where type = 1] -> 1
+[09:21:35] : [7]3:1-[update reportid set maxid = 1224 where type = 1] -> 1
+[09:21:35] : [7]3:0-[update reportid set maxid = 1225 where type = 1] -> 1
+[09:21:36] : [7]1:0-[update reportid set maxid = 1226 where type = 1] -> 1
+[09:21:36] : [7]1:0-[update reportid set maxid = 1227 where type = 1] -> 1
+[09:21:37] : [7]1:0-[update reportid set maxid = 1228 where type = 1] -> 1
+[09:21:37] : [7]1:0-[update reportid set maxid = 1229 where type = 1] -> 1
+[09:21:38] : [7]4:3-[update reportid set maxid = 1230 where type = 1] -> 1
+[09:21:38] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 327682, 1481817600)] -> 1
+[09:21:38] : [7]4:2-[update reportid set maxid = 9953 where type = 0] -> 1
+[09:21:38] : [7]4:1-[delete from `arenaBrp` where `index` = 9948 ] -> 1
+[09:21:38] : [7]4:0-[replace into `arenaBrp` values(844424930131970,9953,'山外山',255,2692,12025)] -> 1
+[09:21:38] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481765497, 4294967295)] -> 1
+[09:23:17] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 9140, 4294967295)] -> 1
+[09:23:17] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 0, 4294967295)] -> 1
+[09:23:29] : [7]2:1-[update reportid set maxid = 1231 where type = 1] -> 1
+[09:23:29] : [7]2:0-[update reportid set maxid = 1232 where type = 1] -> 1
+[09:23:30] : [7]3:2-[update reportid set maxid = 1233 where type = 1] -> 1
+[09:23:30] : [7]3:1-[update reportid set maxid = 1234 where type = 1] -> 1
+[09:23:30] : [7]3:0-[update reportid set maxid = 1235 where type = 1] -> 1
+[09:23:30] : [7]1:0-[update reportid set maxid = 1236 where type = 1] -> 1
+[09:23:31] : [7]2:1-[update reportid set maxid = 1237 where type = 1] -> 1
+[09:23:31] : [7]2:0-[update reportid set maxid = 1238 where type = 1] -> 1
+[09:23:31] : [7]6:5-[update reportid set maxid = 1239 where type = 1] -> 1
+[09:23:31] : [7]6:4-[update reportid set maxid = 1240 where type = 1] -> 1
+[09:23:31] : [7]6:3-[update reportid set maxid = 1241 where type = 1] -> 1
+[09:23:31] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 327683, 1481817600)] -> 1
+[09:23:31] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481765611, 4294967295)] -> 1
+[09:23:31] : [7]6:2-[update reportid set maxid = 9954 where type = 0] -> 1
+[09:23:31] : [7]6:1-[delete from `arenaBrp` where `index` = 9949 ] -> 1
+[09:23:31] : [7]6:0-[replace into `arenaBrp` values(844424930131970,9954,'露金熏菊岸',255,2630,11300)] -> 1
+[10:17:02] : [7]25:24-[delete from `arenaBrp` where `index` = 9916 ] -> 1
+[10:17:02] : [7]25:23-[delete from `arenaBrp` where `index` = 9918 ] -> 1
+[10:17:02] : [7]25:22-[delete from `arenaBrp` where `index` = 9919 ] -> 1
+[10:17:02] : [7]25:21-[delete from `arenaBrp` where `index` = 9920 ] -> 1
+[10:17:02] : [7]25:20-[delete from `arenaBrp` where `index` = 9928 ] -> 1
+[10:17:02] : [7]25:19-[delete from `arenaBrp` where `index` = 9929 ] -> 1
+[10:17:02] : [7]25:18-[delete from `arenaBrp` where `index` = 9930 ] -> 1
+[10:17:02] : [7]25:17-[delete from `arenaBrp` where `index` = 9931 ] -> 1
+[10:17:02] : [7]25:16-[delete from `arenaBrp` where `index` = 9932 ] -> 1
+[10:17:02] : [7]25:15-[delete from `arenaBrp` where `index` = 9935 ] -> 1
+[10:17:02] : [7]25:14-[delete from `arenaBrp` where `index` = 9936 ] -> 1
+[10:17:02] : [7]25:13-[delete from `arenaBrp` where `index` = 9937 ] -> 1
+[10:17:02] : [7]25:12-[delete from `arenaBrp` where `index` = 9938 ] -> 1
+[10:17:02] : [7]25:11-[delete from `arenaBrp` where `index` = 9939 ] -> 1
+[10:17:02] : [7]25:10-[delete from `arenaBrp` where `index` = 9940 ] -> 1
+[10:17:02] : [7]25:9-[delete from `arenaBrp` where `index` = 9941 ] -> 1
+[10:17:02] : [7]25:8-[delete from `arenaBrp` where `index` = 9942 ] -> 1
+[10:17:02] : [7]25:7-[delete from `arenaBrp` where `index` = 9943 ] -> 1
+[10:17:02] : [7]25:6-[delete from `arenaBrp` where `index` = 9944 ] -> 1
+[10:17:02] : [7]25:5-[delete from `arenaBrp` where `index` = 9945 ] -> 1
+[10:17:02] : [7]25:4-[delete from `arenaBrp` where `index` = 9946 ] -> 1
+[10:17:02] : [7]25:3-[delete from `arenaBrp` where `index` = 9947 ] -> 1
+[10:17:02] : [7]25:2-[delete from `arenaBrp` where `index` = 9948 ] -> 1
+[10:17:02] : [7]25:1-[delete from `arenaBrp` where `index` = 9949 ] -> 1
+[10:17:02] : [7]25:0-[insert into reportid values(0,1)] -> 0
+[10:17:20] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 67, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[10:28:45] : [7]25:24-[delete from `arenaBrp` where `index` = 9916 ] -> 1
+[10:28:45] : [7]25:23-[delete from `arenaBrp` where `index` = 9918 ] -> 1
+[10:28:45] : [7]25:22-[delete from `arenaBrp` where `index` = 9919 ] -> 1
+[10:28:45] : [7]25:21-[delete from `arenaBrp` where `index` = 9920 ] -> 1
+[10:28:45] : [7]25:20-[delete from `arenaBrp` where `index` = 9928 ] -> 1
+[10:28:45] : [7]25:19-[delete from `arenaBrp` where `index` = 9929 ] -> 1
+[10:28:45] : [7]25:18-[delete from `arenaBrp` where `index` = 9930 ] -> 1
+[10:28:45] : [7]25:17-[delete from `arenaBrp` where `index` = 9931 ] -> 1
+[10:28:45] : [7]25:16-[delete from `arenaBrp` where `index` = 9932 ] -> 1
+[10:28:45] : [7]25:15-[delete from `arenaBrp` where `index` = 9935 ] -> 1
+[10:28:45] : [7]25:14-[delete from `arenaBrp` where `index` = 9936 ] -> 1
+[10:28:45] : [7]25:13-[delete from `arenaBrp` where `index` = 9937 ] -> 1
+[10:28:45] : [7]25:12-[delete from `arenaBrp` where `index` = 9938 ] -> 1
+[10:28:45] : [7]25:11-[delete from `arenaBrp` where `index` = 9939 ] -> 1
+[10:28:45] : [7]25:10-[delete from `arenaBrp` where `index` = 9940 ] -> 1
+[10:28:45] : [7]25:9-[delete from `arenaBrp` where `index` = 9941 ] -> 1
+[10:28:45] : [7]25:8-[delete from `arenaBrp` where `index` = 9942 ] -> 1
+[10:28:45] : [7]25:7-[delete from `arenaBrp` where `index` = 9943 ] -> 1
+[10:28:45] : [7]25:6-[delete from `arenaBrp` where `index` = 9944 ] -> 1
+[10:28:45] : [7]25:5-[delete from `arenaBrp` where `index` = 9945 ] -> 1
+[10:28:45] : [7]25:4-[delete from `arenaBrp` where `index` = 9946 ] -> 1
+[10:28:45] : [7]25:3-[delete from `arenaBrp` where `index` = 9947 ] -> 1
+[10:28:45] : [7]25:2-[delete from `arenaBrp` where `index` = 9948 ] -> 1
+[10:28:45] : [7]25:1-[delete from `arenaBrp` where `index` = 9949 ] -> 1
+[10:28:45] : [7]25:0-[insert into reportid values(0,1)] -> 0
+[10:29:32] : [7]25:24-[delete from `arenaBrp` where `index` = 9916 ] -> 1
+[10:29:32] : [7]25:23-[delete from `arenaBrp` where `index` = 9918 ] -> 1
+[10:29:32] : [7]25:22-[delete from `arenaBrp` where `index` = 9919 ] -> 1
+[10:29:32] : [7]25:21-[delete from `arenaBrp` where `index` = 9920 ] -> 1
+[10:29:32] : [7]25:20-[delete from `arenaBrp` where `index` = 9928 ] -> 1
+[10:29:32] : [7]25:19-[delete from `arenaBrp` where `index` = 9929 ] -> 1
+[10:29:32] : [7]25:18-[delete from `arenaBrp` where `index` = 9930 ] -> 1
+[10:29:32] : [7]25:17-[delete from `arenaBrp` where `index` = 9931 ] -> 1
+[10:29:32] : [7]25:16-[delete from `arenaBrp` where `index` = 9932 ] -> 1
+[10:29:32] : [7]25:15-[delete from `arenaBrp` where `index` = 9935 ] -> 1
+[10:29:32] : [7]25:14-[delete from `arenaBrp` where `index` = 9936 ] -> 1
+[10:29:32] : [7]25:13-[delete from `arenaBrp` where `index` = 9937 ] -> 1
+[10:29:32] : [7]25:12-[delete from `arenaBrp` where `index` = 9938 ] -> 1
+[10:29:32] : [7]25:11-[delete from `arenaBrp` where `index` = 9939 ] -> 1
+[10:29:32] : [7]25:10-[delete from `arenaBrp` where `index` = 9940 ] -> 1
+[10:29:32] : [7]25:9-[delete from `arenaBrp` where `index` = 9941 ] -> 1
+[10:29:32] : [7]25:8-[delete from `arenaBrp` where `index` = 9942 ] -> 1
+[10:29:32] : [7]25:7-[delete from `arenaBrp` where `index` = 9943 ] -> 1
+[10:29:32] : [7]25:6-[delete from `arenaBrp` where `index` = 9944 ] -> 1
+[10:29:32] : [7]25:5-[delete from `arenaBrp` where `index` = 9945 ] -> 1
+[10:29:32] : [7]25:4-[delete from `arenaBrp` where `index` = 9946 ] -> 1
+[10:29:32] : [7]25:3-[delete from `arenaBrp` where `index` = 9947 ] -> 1
+[10:29:32] : [7]25:2-[delete from `arenaBrp` where `index` = 9948 ] -> 1
+[10:29:32] : [7]25:1-[delete from `arenaBrp` where `index` = 9949 ] -> 1
+[10:29:32] : [7]25:0-[insert into reportid values(0,1)] -> 0
+[10:30:22] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 68, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[11:18:42] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 69, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[11:21:14] : [7]1:0-[update reportid set maxid = 1242 where type = 1] -> 1
+[11:21:15] : [7]3:2-[update reportid set maxid = 1243 where type = 1] -> 1
+[11:21:15] : [7]3:1-[update reportid set maxid = 1244 where type = 1] -> 1
+[11:21:15] : [7]3:0-[update reportid set maxid = 1245 where type = 1] -> 1
+[11:21:15] : [7]6:5-[update reportid set maxid = 1246 where type = 1] -> 1
+[11:21:15] : [7]6:4-[update reportid set maxid = 1247 where type = 1] -> 1
+[11:21:15] : [7]6:3-[update reportid set maxid = 1248 where type = 1] -> 1
+[11:21:15] : [7]6:2-[update reportid set maxid = 9955 where type = 0] -> 1
+[11:21:15] : [7]6:1-[delete from `arenaBrp` where `index` = 9950 ] -> 1
+[11:21:15] : [7]6:0-[replace into `arenaBrp` values(844424930131970,9955,'山外山',255,2692,12025)] -> 1
+[11:21:16] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 327684, 1481817600)] -> 1
+[11:21:16] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481772675, 4294967295)] -> 1
+[11:21:36] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 9120, 4294967295)] -> 1
+[11:21:36] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 0, 4294967295)] -> 1
+[11:27:19] : [7]26:25-[delete from `arenaBrp` where `index` = 9916 ] -> 1
+[11:27:19] : [7]26:24-[delete from `arenaBrp` where `index` = 9918 ] -> 1
+[11:27:19] : [7]26:23-[delete from `arenaBrp` where `index` = 9919 ] -> 1
+[11:27:19] : [7]26:22-[delete from `arenaBrp` where `index` = 9920 ] -> 1
+[11:27:19] : [7]26:21-[delete from `arenaBrp` where `index` = 9928 ] -> 1
+[11:27:19] : [7]26:20-[delete from `arenaBrp` where `index` = 9929 ] -> 1
+[11:27:19] : [7]26:19-[delete from `arenaBrp` where `index` = 9930 ] -> 1
+[11:27:19] : [7]26:18-[delete from `arenaBrp` where `index` = 9931 ] -> 1
+[11:27:19] : [7]26:17-[delete from `arenaBrp` where `index` = 9932 ] -> 1
+[11:27:19] : [7]26:16-[delete from `arenaBrp` where `index` = 9935 ] -> 1
+[11:27:19] : [7]26:15-[delete from `arenaBrp` where `index` = 9936 ] -> 1
+[11:27:19] : [7]26:14-[delete from `arenaBrp` where `index` = 9937 ] -> 1
+[11:27:19] : [7]26:13-[delete from `arenaBrp` where `index` = 9938 ] -> 1
+[11:27:19] : [7]26:12-[delete from `arenaBrp` where `index` = 9939 ] -> 1
+[11:27:19] : [7]26:11-[delete from `arenaBrp` where `index` = 9940 ] -> 1
+[11:27:19] : [7]26:10-[delete from `arenaBrp` where `index` = 9941 ] -> 1
+[11:27:19] : [7]26:9-[delete from `arenaBrp` where `index` = 9942 ] -> 1
+[11:27:19] : [7]26:8-[delete from `arenaBrp` where `index` = 9943 ] -> 1
+[11:27:19] : [7]26:7-[delete from `arenaBrp` where `index` = 9944 ] -> 1
+[11:27:19] : [7]26:6-[delete from `arenaBrp` where `index` = 9945 ] -> 1
+[11:27:19] : [7]26:5-[delete from `arenaBrp` where `index` = 9946 ] -> 1
+[11:27:19] : [7]26:4-[delete from `arenaBrp` where `index` = 9947 ] -> 1
+[11:27:19] : [7]26:3-[delete from `arenaBrp` where `index` = 9948 ] -> 1
+[11:27:19] : [7]26:2-[delete from `arenaBrp` where `index` = 9949 ] -> 1
+[11:27:19] : [7]26:1-[delete from `arenaBrp` where `index` = 9950 ] -> 1
+[11:27:19] : [7]26:0-[insert into reportid values(0,1)] -> 0
+[11:27:32] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 70, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[11:28:00] : [7]1:0-[update reportid set maxid = 1249 where type = 1] -> 1
+[11:28:00] : [7]2:1-[update reportid set maxid = 1250 where type = 1] -> 1
+[11:28:00] : [7]2:0-[update reportid set maxid = 1251 where type = 1] -> 1
+[11:28:01] : [7]5:4-[update reportid set maxid = 1252 where type = 1] -> 1
+[11:28:01] : [7]5:3-[update reportid set maxid = 1253 where type = 1] -> 1
+[11:28:01] : [7]5:2-[update reportid set maxid = 9956 where type = 0] -> 1
+[11:28:01] : [7]5:1-[delete from `arenaBrp` where `index` = 9951 ] -> 1
+[11:28:01] : [7]5:0-[replace into `arenaBrp` values(844424930131970,9956,'山外山',255,2692,12025)] -> 1
+[11:28:01] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 327685, 1481817600)] -> 1
+[11:28:01] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481773081, 4294967295)] -> 1
+[11:30:06] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 9110, 4294967295)] -> 1
+[11:30:09] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 393221, 1481817600)] -> 1
+[11:30:14] : [7]5:4-[update reportid set maxid = 1254 where type = 1] -> 1
+[11:30:14] : [7]5:3-[update reportid set maxid = 1255 where type = 1] -> 1
+[11:30:14] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 9090, 4294967295)] -> 1
+[11:30:16] : [7]5:2-[update reportid set maxid = 9957 where type = 0] -> 1
+[11:30:16] : [7]5:1-[delete from `arenaBrp` where `index` = 9952 ] -> 1
+[11:30:17] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 0, 4294967295)] -> 1
+[11:30:20] : [7]5:0-[replace into `arenaBrp` values(844424930131970,9957,'山外山',255,2692,12025)] -> 1
+[11:30:24] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 393222, 1481817600)] -> 1
+[11:30:25] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481773214, 4294967295)] -> 1
+[11:56:41] : [7]28:27-[delete from `arenaBrp` where `index` = 9916 ] -> 1
+[11:56:41] : [7]28:26-[delete from `arenaBrp` where `index` = 9918 ] -> 1
+[11:56:41] : [7]28:25-[delete from `arenaBrp` where `index` = 9919 ] -> 1
+[11:56:41] : [7]28:24-[delete from `arenaBrp` where `index` = 9920 ] -> 1
+[11:56:41] : [7]28:23-[delete from `arenaBrp` where `index` = 9928 ] -> 1
+[11:56:41] : [7]28:22-[delete from `arenaBrp` where `index` = 9929 ] -> 1
+[11:56:41] : [7]28:21-[delete from `arenaBrp` where `index` = 9930 ] -> 1
+[11:56:41] : [7]28:20-[delete from `arenaBrp` where `index` = 9931 ] -> 1
+[11:56:41] : [7]28:19-[delete from `arenaBrp` where `index` = 9932 ] -> 1
+[11:56:41] : [7]28:18-[delete from `arenaBrp` where `index` = 9935 ] -> 1
+[11:56:41] : [7]28:17-[delete from `arenaBrp` where `index` = 9936 ] -> 1
+[11:56:41] : [7]28:16-[delete from `arenaBrp` where `index` = 9937 ] -> 1
+[11:56:41] : [7]28:15-[delete from `arenaBrp` where `index` = 9938 ] -> 1
+[11:56:41] : [7]28:14-[delete from `arenaBrp` where `index` = 9939 ] -> 1
+[11:56:41] : [7]28:13-[delete from `arenaBrp` where `index` = 9940 ] -> 1
+[11:56:41] : [7]28:12-[delete from `arenaBrp` where `index` = 9941 ] -> 1
+[11:56:41] : [7]28:11-[delete from `arenaBrp` where `index` = 9942 ] -> 1
+[11:56:41] : [7]28:10-[delete from `arenaBrp` where `index` = 9943 ] -> 1
+[11:56:41] : [7]28:9-[delete from `arenaBrp` where `index` = 9944 ] -> 1
+[11:56:41] : [7]28:8-[delete from `arenaBrp` where `index` = 9945 ] -> 1
+[11:56:41] : [7]28:7-[delete from `arenaBrp` where `index` = 9946 ] -> 1
+[11:56:41] : [7]28:6-[delete from `arenaBrp` where `index` = 9947 ] -> 1
+[11:56:41] : [7]28:5-[delete from `arenaBrp` where `index` = 9948 ] -> 1
+[11:56:41] : [7]28:4-[delete from `arenaBrp` where `index` = 9949 ] -> 1
+[11:56:41] : [7]28:3-[delete from `arenaBrp` where `index` = 9950 ] -> 1
+[11:56:41] : [7]28:2-[delete from `arenaBrp` where `index` = 9951 ] -> 1
+[11:56:41] : [7]28:1-[delete from `arenaBrp` where `index` = 9952 ] -> 1
+[11:56:41] : [7]28:0-[insert into reportid values(0,1)] -> 0
+[11:56:50] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 71, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[11:57:16] : [7]6:5-[REPLACE INTO `arenaLayout` values(844424930131970, 0, 0)] -> 1
+[11:57:16] : [7]6:4-[REPLACE INTO `arenaLayout` values(844424930131970, 1, 1003)] -> 1
+[11:57:16] : [7]6:3-[REPLACE INTO `arenaLayout` values(844424930131970, 2, 0)] -> 1
+[11:57:16] : [7]6:2-[REPLACE INTO `arenaLayout` values(844424930131970, 3, 1001)] -> 1
+[11:57:16] : [7]6:1-[REPLACE INTO `arenaLayout` values(844424930131970, 4, 0)] -> 1
+[11:57:16] : [7]6:0-[REPLACE INTO `arenaLayout` values(844424930131970, 5, 0)] -> 1
+[11:57:16] : [13]3:2-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 12, 0, 4294967295)] -> 1
+[11:57:16] : [13]3:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 12, 1932, 4294967295)] -> 1
+[11:57:16] : [13]3:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 12, 3864, 4294967295)] -> 1
+[11:59:12] : [7]28:27-[delete from `arenaBrp` where `index` = 9916 ] -> 1
+[11:59:12] : [7]28:26-[delete from `arenaBrp` where `index` = 9918 ] -> 1
+[11:59:12] : [7]28:25-[delete from `arenaBrp` where `index` = 9919 ] -> 1
+[11:59:12] : [7]28:24-[delete from `arenaBrp` where `index` = 9920 ] -> 1
+[11:59:12] : [7]28:23-[delete from `arenaBrp` where `index` = 9928 ] -> 1
+[11:59:12] : [7]28:22-[delete from `arenaBrp` where `index` = 9929 ] -> 1
+[11:59:12] : [7]28:21-[delete from `arenaBrp` where `index` = 9930 ] -> 1
+[11:59:12] : [7]28:20-[delete from `arenaBrp` where `index` = 9931 ] -> 1
+[11:59:12] : [7]28:19-[delete from `arenaBrp` where `index` = 9932 ] -> 1
+[11:59:12] : [7]28:18-[delete from `arenaBrp` where `index` = 9935 ] -> 1
+[11:59:12] : [7]28:17-[delete from `arenaBrp` where `index` = 9936 ] -> 1
+[11:59:12] : [7]28:16-[delete from `arenaBrp` where `index` = 9937 ] -> 1
+[11:59:12] : [7]28:15-[delete from `arenaBrp` where `index` = 9938 ] -> 1
+[11:59:12] : [7]28:14-[delete from `arenaBrp` where `index` = 9939 ] -> 1
+[11:59:12] : [7]28:13-[delete from `arenaBrp` where `index` = 9940 ] -> 1
+[11:59:12] : [7]28:12-[delete from `arenaBrp` where `index` = 9941 ] -> 1
+[11:59:12] : [7]28:11-[delete from `arenaBrp` where `index` = 9942 ] -> 1
+[11:59:12] : [7]28:10-[delete from `arenaBrp` where `index` = 9943 ] -> 1
+[11:59:12] : [7]28:9-[delete from `arenaBrp` where `index` = 9944 ] -> 1
+[11:59:12] : [7]28:8-[delete from `arenaBrp` where `index` = 9945 ] -> 1
+[11:59:12] : [7]28:7-[delete from `arenaBrp` where `index` = 9946 ] -> 1
+[11:59:12] : [7]28:6-[delete from `arenaBrp` where `index` = 9947 ] -> 1
+[11:59:12] : [7]28:5-[delete from `arenaBrp` where `index` = 9948 ] -> 1
+[11:59:12] : [7]28:4-[delete from `arenaBrp` where `index` = 9949 ] -> 1
+[11:59:12] : [7]28:3-[delete from `arenaBrp` where `index` = 9950 ] -> 1
+[11:59:12] : [7]28:2-[delete from `arenaBrp` where `index` = 9951 ] -> 1
+[11:59:12] : [7]28:1-[delete from `arenaBrp` where `index` = 9952 ] -> 1
+[11:59:12] : [7]28:0-[insert into reportid values(0,1)] -> 0
+[11:59:23] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 72, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[11:59:51] : [7]27:26-[delete from `arenaBrp` where `index` = 9916 ] -> 1
+[11:59:51] : [7]27:25-[delete from `arenaBrp` where `index` = 9918 ] -> 1
+[11:59:51] : [7]27:24-[delete from `arenaBrp` where `index` = 9919 ] -> 1
+[11:59:51] : [7]27:23-[delete from `arenaBrp` where `index` = 9920 ] -> 1
+[11:59:51] : [7]27:22-[delete from `arenaBrp` where `index` = 9928 ] -> 1
+[11:59:51] : [7]27:21-[delete from `arenaBrp` where `index` = 9929 ] -> 1
+[11:59:51] : [7]27:20-[delete from `arenaBrp` where `index` = 9930 ] -> 1
+[11:59:51] : [7]27:19-[delete from `arenaBrp` where `index` = 9931 ] -> 1
+[11:59:51] : [7]27:18-[delete from `arenaBrp` where `index` = 9932 ] -> 1
+[11:59:51] : [7]27:17-[delete from `arenaBrp` where `index` = 9935 ] -> 1
+[11:59:51] : [7]27:16-[delete from `arenaBrp` where `index` = 9936 ] -> 1
+[11:59:51] : [7]27:15-[delete from `arenaBrp` where `index` = 9937 ] -> 1
+[11:59:51] : [7]27:14-[delete from `arenaBrp` where `index` = 9938 ] -> 1
+[11:59:51] : [7]27:13-[delete from `arenaBrp` where `index` = 9939 ] -> 1
+[11:59:51] : [7]27:12-[delete from `arenaBrp` where `index` = 9940 ] -> 1
+[11:59:51] : [7]27:11-[delete from `arenaBrp` where `index` = 9941 ] -> 1
+[11:59:51] : [7]27:10-[delete from `arenaBrp` where `index` = 9942 ] -> 1
+[11:59:51] : [7]27:9-[delete from `arenaBrp` where `index` = 9943 ] -> 1
+[11:59:51] : [7]27:8-[delete from `arenaBrp` where `index` = 9944 ] -> 1
+[11:59:51] : [7]27:7-[delete from `arenaBrp` where `index` = 9945 ] -> 1
+[11:59:51] : [7]27:6-[delete from `arenaBrp` where `index` = 9946 ] -> 1
+[11:59:51] : [7]27:5-[delete from `arenaBrp` where `index` = 9947 ] -> 1
+[11:59:51] : [7]27:4-[delete from `arenaBrp` where `index` = 9948 ] -> 1
+[11:59:51] : [7]27:3-[delete from `arenaBrp` where `index` = 9949 ] -> 1
+[11:59:51] : [7]27:2-[delete from `arenaBrp` where `index` = 9950 ] -> 1
+[11:59:51] : [7]27:1-[delete from `arenaBrp` where `index` = 9951 ] -> 1
+[11:59:51] : [7]27:0-[delete from `arenaBrp` where `index` = 9952 ] -> 1
+[11:59:52] : [7]1:0-[insert into reportid values(0,1)] -> 0
+[12:10:09] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 73, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[12:10:23] : [7]2:1-[REPLACE INTO `arenaLayout` values(844424930131970, 1, 1017)] -> 1
+[12:10:23] : [7]2:0-[REPLACE INTO `arenaLayout` values(844424930131970, 3, 1001)] -> 1
+[12:10:23] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 12, 1932, 4294967295)] -> 1
+[12:10:23] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 12, 3864, 4294967295)] -> 1
+[12:11:09] : [7]3:2-[REPLACE INTO `arenaLayout` values(844424930131970, 1, 1001)] -> 1
+[12:11:09] : [7]3:1-[REPLACE INTO `arenaLayout` values(844424930131970, 3, 1003)] -> 1
+[12:11:09] : [7]3:0-[REPLACE INTO `arenaLayout` values(844424930131970, 4, 2)] -> 1
+[12:11:09] : [13]1:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 12, 5830, 4294967295)] -> 1
+[12:11:39] : [7]28:27-[delete from `arenaBrp` where `index` = 9916 ] -> 1
+[12:11:39] : [7]28:26-[delete from `arenaBrp` where `index` = 9918 ] -> 1
+[12:11:39] : [7]28:25-[delete from `arenaBrp` where `index` = 9919 ] -> 1
+[12:11:39] : [7]28:24-[delete from `arenaBrp` where `index` = 9920 ] -> 1
+[12:11:39] : [7]28:23-[delete from `arenaBrp` where `index` = 9928 ] -> 1
+[12:11:39] : [7]28:22-[delete from `arenaBrp` where `index` = 9929 ] -> 1
+[12:11:39] : [7]28:21-[delete from `arenaBrp` where `index` = 9930 ] -> 1
+[12:11:39] : [7]28:20-[delete from `arenaBrp` where `index` = 9931 ] -> 1
+[12:11:39] : [7]28:19-[delete from `arenaBrp` where `index` = 9932 ] -> 1
+[12:11:39] : [7]28:18-[delete from `arenaBrp` where `index` = 9935 ] -> 1
+[12:11:39] : [7]28:17-[delete from `arenaBrp` where `index` = 9936 ] -> 1
+[12:11:39] : [7]28:16-[delete from `arenaBrp` where `index` = 9937 ] -> 1
+[12:11:39] : [7]28:15-[delete from `arenaBrp` where `index` = 9938 ] -> 1
+[12:11:39] : [7]28:14-[delete from `arenaBrp` where `index` = 9939 ] -> 1
+[12:11:39] : [7]28:13-[delete from `arenaBrp` where `index` = 9940 ] -> 1
+[12:11:39] : [7]28:12-[delete from `arenaBrp` where `index` = 9941 ] -> 1
+[12:11:39] : [7]28:11-[delete from `arenaBrp` where `index` = 9942 ] -> 1
+[12:11:39] : [7]28:10-[delete from `arenaBrp` where `index` = 9943 ] -> 1
+[12:11:39] : [7]28:9-[delete from `arenaBrp` where `index` = 9944 ] -> 1
+[12:11:39] : [7]28:8-[delete from `arenaBrp` where `index` = 9945 ] -> 1
+[12:11:39] : [7]28:7-[delete from `arenaBrp` where `index` = 9946 ] -> 1
+[12:11:39] : [7]28:6-[delete from `arenaBrp` where `index` = 9947 ] -> 1
+[12:11:39] : [7]28:5-[delete from `arenaBrp` where `index` = 9948 ] -> 1
+[12:11:39] : [7]28:4-[delete from `arenaBrp` where `index` = 9949 ] -> 1
+[12:11:39] : [7]28:3-[delete from `arenaBrp` where `index` = 9950 ] -> 1
+[12:11:39] : [7]28:2-[delete from `arenaBrp` where `index` = 9951 ] -> 1
+[12:11:39] : [7]28:1-[delete from `arenaBrp` where `index` = 9952 ] -> 1
+[12:11:39] : [7]28:0-[insert into reportid values(0,1)] -> 0
+[12:12:25] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 74, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[13:50:37] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 75, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[13:50:51] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 9080, 4294967295)] -> 1
+[13:50:51] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 458758, 1481817600)] -> 1
+[13:53:04] : [7]1:0-[update reportid set maxid = 1256 where type = 1] -> 1
+[13:53:04] : [7]3:2-[update reportid set maxid = 9958 where type = 0] -> 1
+[13:53:04] : [7]3:1-[delete from `arenaBrp` where `index` = 9953 ] -> 1
+[13:53:04] : [7]3:0-[replace into `arenaBrp` values(844424930131970,9958,'碎碎念',255,2907,11935)] -> 1
+[13:53:05] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 458759, 1481817600)] -> 1
+[13:53:05] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481781784, 4294967295)] -> 1
+[14:04:05] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 76, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[14:04:24] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 9070, 4294967295)] -> 1
+[14:04:24] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 524295, 1481817600)] -> 1
+[14:04:56] : [7]2:1-[update reportid set maxid = 1257 where type = 1] -> 1
+[14:04:56] : [7]2:0-[update reportid set maxid = 1258 where type = 1] -> 1
+[14:04:57] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 524296, 1481817600)] -> 1
+[14:04:57] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481782496, 4294967295)] -> 1
+[14:04:57] : [7]4:3-[update reportid set maxid = 1259 where type = 1] -> 1
+[14:04:57] : [7]4:2-[update reportid set maxid = 9959 where type = 0] -> 1
+[14:04:57] : [7]4:1-[delete from `arenaBrp` where `index` = 9954 ] -> 1
+[14:04:57] : [7]4:0-[replace into `arenaBrp` values(844424930131970,9959,'碎碎念',255,2907,11935)] -> 1
+[14:13:02] : [7]30:29-[delete from `arenaBrp` where `index` = 9916 ] -> 1
+[14:13:02] : [7]30:28-[delete from `arenaBrp` where `index` = 9918 ] -> 1
+[14:13:02] : [7]30:27-[delete from `arenaBrp` where `index` = 9919 ] -> 1
+[14:13:02] : [7]30:26-[delete from `arenaBrp` where `index` = 9920 ] -> 1
+[14:13:02] : [7]30:25-[delete from `arenaBrp` where `index` = 9928 ] -> 1
+[14:13:02] : [7]30:24-[delete from `arenaBrp` where `index` = 9929 ] -> 1
+[14:13:02] : [7]30:23-[delete from `arenaBrp` where `index` = 9930 ] -> 1
+[14:13:02] : [7]30:22-[delete from `arenaBrp` where `index` = 9931 ] -> 1
+[14:13:02] : [7]30:21-[delete from `arenaBrp` where `index` = 9932 ] -> 1
+[14:13:02] : [7]30:20-[delete from `arenaBrp` where `index` = 9935 ] -> 1
+[14:13:02] : [7]30:19-[delete from `arenaBrp` where `index` = 9936 ] -> 1
+[14:13:02] : [7]30:18-[delete from `arenaBrp` where `index` = 9937 ] -> 1
+[14:13:02] : [7]30:17-[delete from `arenaBrp` where `index` = 9938 ] -> 1
+[14:13:02] : [7]30:16-[delete from `arenaBrp` where `index` = 9939 ] -> 1
+[14:13:02] : [7]30:15-[delete from `arenaBrp` where `index` = 9940 ] -> 1
+[14:13:02] : [7]30:14-[delete from `arenaBrp` where `index` = 9941 ] -> 1
+[14:13:02] : [7]30:13-[delete from `arenaBrp` where `index` = 9942 ] -> 1
+[14:13:02] : [7]30:12-[delete from `arenaBrp` where `index` = 9943 ] -> 1
+[14:13:02] : [7]30:11-[delete from `arenaBrp` where `index` = 9944 ] -> 1
+[14:13:02] : [7]30:10-[delete from `arenaBrp` where `index` = 9945 ] -> 1
+[14:13:02] : [7]30:9-[delete from `arenaBrp` where `index` = 9946 ] -> 1
+[14:13:02] : [7]30:8-[delete from `arenaBrp` where `index` = 9947 ] -> 1
+[14:13:02] : [7]30:7-[delete from `arenaBrp` where `index` = 9948 ] -> 1
+[14:13:02] : [7]30:6-[delete from `arenaBrp` where `index` = 9949 ] -> 1
+[14:13:02] : [7]30:5-[delete from `arenaBrp` where `index` = 9950 ] -> 1
+[14:13:02] : [7]30:4-[delete from `arenaBrp` where `index` = 9951 ] -> 1
+[14:13:02] : [7]30:3-[delete from `arenaBrp` where `index` = 9952 ] -> 1
+[14:13:02] : [7]30:2-[delete from `arenaBrp` where `index` = 9953 ] -> 1
+[14:13:02] : [7]30:1-[delete from `arenaBrp` where `index` = 9954 ] -> 1
+[14:13:02] : [7]30:0-[insert into reportid values(0,1)] -> 0
+[14:13:31] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 77, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[14:13:44] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 9060, 4294967295)] -> 1
+[14:13:44] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 589832, 1481817600)] -> 1
+[14:13:47] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 9040, 4294967295)] -> 1
+[14:13:47] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 0, 4294967295)] -> 1
+[14:14:10] : [7]1:0-[update reportid set maxid = 1260 where type = 1] -> 1
+[14:14:10] : [7]4:3-[update reportid set maxid = 1261 where type = 1] -> 1
+[14:14:10] : [7]4:2-[update reportid set maxid = 1262 where type = 1] -> 1
+[14:14:10] : [7]4:1-[update reportid set maxid = 1263 where type = 1] -> 1
+[14:14:10] : [7]4:0-[update reportid set maxid = 1264 where type = 1] -> 1
+[14:14:11] : [7]1:0-[update reportid set maxid = 1265 where type = 1] -> 1
+[14:14:11] : [7]5:4-[update reportid set maxid = 1266 where type = 1] -> 1
+[14:14:11] : [7]5:3-[update reportid set maxid = 1267 where type = 1] -> 1
+[14:14:11] : [7]5:2-[update reportid set maxid = 9960 where type = 0] -> 1
+[14:14:11] : [7]5:1-[delete from `arenaBrp` where `index` = 9955 ] -> 1
+[14:14:11] : [7]5:0-[replace into `arenaBrp` values(844424930131970,9960,'露金熏菊岸',255,2630,11300)] -> 1
+[14:14:12] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 589833, 1481817600)] -> 1
+[14:14:12] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481783051, 4294967295)] -> 1
+[14:21:07] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 9030, 4294967295)] -> 1
+[14:21:07] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 655369, 1481817600)] -> 1
+[14:21:08] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 9010, 4294967295)] -> 1
+[14:21:08] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 0, 4294967295)] -> 1
+[14:21:25] : [7]1:0-[update reportid set maxid = 1268 where type = 1] -> 1
+[14:21:26] : [7]1:0-[update reportid set maxid = 1269 where type = 1] -> 1
+[14:21:26] : [7]3:2-[update reportid set maxid = 1270 where type = 1] -> 1
+[14:21:26] : [7]3:1-[update reportid set maxid = 1271 where type = 1] -> 1
+[14:21:26] : [7]3:0-[update reportid set maxid = 1272 where type = 1] -> 1
+[14:21:27] : [7]2:1-[update reportid set maxid = 1273 where type = 1] -> 1
+[14:21:27] : [7]2:0-[update reportid set maxid = 1274 where type = 1] -> 1
+[14:21:28] : [7]2:1-[update reportid set maxid = 1275 where type = 1] -> 1
+[14:21:28] : [7]2:0-[update reportid set maxid = 1276 where type = 1] -> 1
+[14:21:29] : [7]5:4-[update reportid set maxid = 1277 where type = 1] -> 1
+[14:21:29] : [7]5:3-[update reportid set maxid = 1278 where type = 1] -> 1
+[14:21:29] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 655370, 1481817600)] -> 1
+[14:21:29] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481783489, 4294967295)] -> 1
+[14:21:29] : [7]5:2-[update reportid set maxid = 9961 where type = 0] -> 1
+[14:21:29] : [7]5:1-[delete from `arenaBrp` where `index` = 9956 ] -> 1
+[14:21:29] : [7]5:0-[replace into `arenaBrp` values(844424930131970,9961,'露金熏菊岸',255,2630,11300)] -> 1
+[14:22:31] : [13]58:57-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 9900, 4294967295)] -> 1
+[14:22:31] : [13]58:56-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 29, 1, 4294967295)] -> 1
+[14:22:31] : [13]58:55-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 600, 1481817600)] -> 1
+[14:22:31] : [13]58:54-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 103, 1481782951, 1481817600)] -> 1
+[14:22:31] : [13]58:53-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 9700, 4294967295)] -> 1
+[14:22:31] : [13]58:52-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 29, 2, 4294967295)] -> 1
+[14:22:31] : [13]58:51-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 1200, 1481817600)] -> 1
+[14:22:31] : [13]58:50-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 9400, 4294967295)] -> 1
+[14:22:31] : [13]58:49-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 29, 3, 4294967295)] -> 1
+[14:22:31] : [13]58:48-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 1800, 1481817600)] -> 1
+[14:22:31] : [13]58:47-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 9000, 4294967295)] -> 1
+[14:22:31] : [13]58:46-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 29, 4, 4294967295)] -> 1
+[14:22:31] : [13]58:45-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 2400, 1481817600)] -> 1
+[14:22:31] : [13]58:44-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 8500, 4294967295)] -> 1
+[14:22:31] : [13]58:43-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 29, 5, 4294967295)] -> 1
+[14:22:31] : [13]58:42-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 3000, 1481817600)] -> 1
+[14:22:31] : [13]58:41-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 7900, 4294967295)] -> 1
+[14:22:31] : [13]58:40-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 29, 6, 4294967295)] -> 1
+[14:22:31] : [13]58:39-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 3600, 1481817600)] -> 1
+[14:22:31] : [13]58:38-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 7200, 4294967295)] -> 1
+[14:22:31] : [13]58:37-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 29, 7, 4294967295)] -> 1
+[14:22:31] : [13]58:36-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 4200, 1481817600)] -> 1
+[14:22:31] : [13]58:35-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 6400, 4294967295)] -> 1
+[14:22:31] : [13]58:34-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 29, 8, 4294967295)] -> 1
+[14:22:31] : [13]58:33-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 4800, 1481817600)] -> 1
+[14:22:31] : [13]58:32-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 5500, 4294967295)] -> 1
+[14:22:31] : [13]58:31-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 29, 9, 4294967295)] -> 1
+[14:22:31] : [13]58:30-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 5400, 1481817600)] -> 1
+[14:22:31] : [13]58:29-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 4500, 4294967295)] -> 1
+[14:22:31] : [13]58:28-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 29, 10, 4294967295)] -> 1
+[14:22:31] : [13]58:27-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 6000, 1481817600)] -> 1
+[14:22:31] : [13]58:26-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 4400, 4294967295)] -> 1
+[14:22:32] : [13]58:25-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 30, 1, 4294967295)] -> 1
+[14:22:32] : [13]58:24-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 6600, 1481817600)] -> 1
+[14:22:32] : [13]58:23-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 4200, 4294967295)] -> 1
+[14:22:32] : [13]58:22-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 30, 2, 4294967295)] -> 1
+[14:22:32] : [13]58:21-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 7200, 1481817600)] -> 1
+[14:22:32] : [13]58:20-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 3900, 4294967295)] -> 1
+[14:22:32] : [13]58:19-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 30, 3, 4294967295)] -> 1
+[14:22:32] : [13]58:18-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 7800, 1481817600)] -> 1
+[14:22:32] : [13]58:17-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 3500, 4294967295)] -> 1
+[14:22:32] : [13]58:16-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 30, 4, 4294967295)] -> 1
+[14:22:32] : [13]58:15-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 8400, 1481817600)] -> 1
+[14:22:32] : [13]58:14-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 3000, 4294967295)] -> 1
+[14:22:32] : [13]58:13-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 30, 5, 4294967295)] -> 1
+[14:22:32] : [13]58:12-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 9000, 1481817600)] -> 1
+[14:22:32] : [13]58:11-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 2400, 4294967295)] -> 1
+[14:22:32] : [13]58:10-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 30, 6, 4294967295)] -> 1
+[14:22:32] : [13]58:9-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 9600, 1481817600)] -> 1
+[14:22:32] : [13]58:8-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 1700, 4294967295)] -> 1
+[14:22:32] : [13]58:7-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 30, 7, 4294967295)] -> 1
+[14:22:32] : [13]58:6-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 10200, 1481817600)] -> 1
+[14:22:32] : [13]58:5-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 900, 4294967295)] -> 1
+[14:22:32] : [13]58:4-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 30, 8, 4294967295)] -> 1
+[14:22:32] : [13]58:3-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 10800, 1481817600)] -> 1
+[14:22:32] : [13]58:2-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 0, 4294967295)] -> 1
+[14:22:32] : [13]58:1-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 30, 9, 4294967295)] -> 1
+[14:22:32] : [13]58:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 11400, 1481817600)] -> 1
+[14:22:44] : [13]7:6-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 19010, 4294967295)] -> 1
+[14:22:44] : [13]7:5-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 10000, 4294967295)] -> 1
+[14:22:44] : [13]7:4-[  REPLACE INTO `item`(`itemId`,`playerId`,`count`) values(501, 844424930131970, 20000) ] -> 1
+[14:22:44] : [13]7:3-[  REPLACE INTO `item`(`itemId`,`playerId`,`count`) values(502, 844424930131970, 20000) ] -> 1
+[14:22:44] : [13]7:2-[  REPLACE INTO `item`(`itemId`,`playerId`,`count`) values(504, 844424930131970, 20000) ] -> 1
+[14:22:44] : [13]7:1-[  REPLACE INTO `item`(`itemId`,`playerId`,`count`) values(503, 844424930131970, 20000) ] -> 1
+[14:22:44] : [13]7:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 4, 21000, 4294967295)] -> 1
+[14:22:44] : [13]14:13-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 29010, 4294967295)] -> 1
+[14:22:44] : [13]14:12-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 20000, 4294967295)] -> 1
+[14:22:44] : [13]14:11-[  REPLACE INTO `item`(`itemId`,`playerId`,`count`) values(501, 844424930131970, 30000) ] -> 1
+[14:22:44] : [13]14:10-[  REPLACE INTO `item`(`itemId`,`playerId`,`count`) values(502, 844424930131970, 30000) ] -> 1
+[14:22:44] : [13]14:9-[  REPLACE INTO `item`(`itemId`,`playerId`,`count`) values(504, 844424930131970, 30000) ] -> 1
+[14:22:44] : [13]14:8-[  REPLACE INTO `item`(`itemId`,`playerId`,`count`) values(503, 844424930131970, 30000) ] -> 1
+[14:22:44] : [13]14:7-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 4, 31000, 4294967295)] -> 1
+[14:22:44] : [13]14:6-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 39010, 4294967295)] -> 1
+[14:22:44] : [13]14:5-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 30000, 4294967295)] -> 1
+[14:22:44] : [13]14:4-[  REPLACE INTO `item`(`itemId`,`playerId`,`count`) values(501, 844424930131970, 40000) ] -> 1
+[14:22:44] : [13]14:3-[  REPLACE INTO `item`(`itemId`,`playerId`,`count`) values(502, 844424930131970, 40000) ] -> 1
+[14:22:44] : [13]14:2-[  REPLACE INTO `item`(`itemId`,`playerId`,`count`) values(504, 844424930131970, 40000) ] -> 1
+[14:22:44] : [13]14:1-[  REPLACE INTO `item`(`itemId`,`playerId`,`count`) values(503, 844424930131970, 40000) ] -> 1
+[14:22:44] : [13]14:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 4, 41000, 4294967295)] -> 1
+[14:22:45] : [13]14:13-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 49010, 4294967295)] -> 1
+[14:22:45] : [13]14:12-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 40000, 4294967295)] -> 1
+[14:22:45] : [13]14:11-[  REPLACE INTO `item`(`itemId`,`playerId`,`count`) values(501, 844424930131970, 50000) ] -> 1
+[14:22:45] : [13]14:10-[  REPLACE INTO `item`(`itemId`,`playerId`,`count`) values(502, 844424930131970, 50000) ] -> 1
+[14:22:45] : [13]14:9-[  REPLACE INTO `item`(`itemId`,`playerId`,`count`) values(504, 844424930131970, 50000) ] -> 1
+[14:22:45] : [13]14:8-[  REPLACE INTO `item`(`itemId`,`playerId`,`count`) values(503, 844424930131970, 50000) ] -> 1
+[14:22:45] : [13]14:7-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 4, 51000, 4294967295)] -> 1
+[14:22:45] : [13]14:6-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 59010, 4294967295)] -> 1
+[14:22:45] : [13]14:5-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 50000, 4294967295)] -> 1
+[14:22:45] : [13]14:4-[  REPLACE INTO `item`(`itemId`,`playerId`,`count`) values(501, 844424930131970, 60000) ] -> 1
+[14:22:45] : [13]14:3-[  REPLACE INTO `item`(`itemId`,`playerId`,`count`) values(502, 844424930131970, 60000) ] -> 1
+[14:22:45] : [13]14:2-[  REPLACE INTO `item`(`itemId`,`playerId`,`count`) values(504, 844424930131970, 60000) ] -> 1
+[14:22:45] : [13]14:1-[  REPLACE INTO `item`(`itemId`,`playerId`,`count`) values(503, 844424930131970, 60000) ] -> 1
+[14:22:45] : [13]14:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 4, 61000, 4294967295)] -> 1
+[14:22:52] : [13]19:18-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 49000, 4294967295)] -> 1
+[14:22:52] : [13]19:17-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 30, 10, 4294967295)] -> 1
+[14:22:52] : [13]19:16-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 11980, 1481817600)] -> 1
+[14:22:52] : [13]19:15-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 103, 1481782971, 1481817600)] -> 1
+[14:22:52] : [13]19:14-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 48900, 4294967295)] -> 1
+[14:22:52] : [13]19:13-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 31, 1, 4294967295)] -> 1
+[14:22:52] : [13]19:12-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 12580, 1481817600)] -> 1
+[14:22:52] : [13]19:11-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 48700, 4294967295)] -> 1
+[14:22:52] : [13]19:10-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 31, 2, 4294967295)] -> 1
+[14:22:52] : [13]19:9-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 13180, 1481817600)] -> 1
+[14:22:52] : [13]19:8-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 48400, 4294967295)] -> 1
+[14:22:52] : [13]19:7-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 31, 3, 4294967295)] -> 1
+[14:22:52] : [13]19:6-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 13780, 1481817600)] -> 1
+[14:22:52] : [13]19:5-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 48000, 4294967295)] -> 1
+[14:22:52] : [13]19:4-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 31, 4, 4294967295)] -> 1
+[14:22:52] : [13]19:3-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 14380, 1481817600)] -> 1
+[14:22:52] : [13]19:2-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 47500, 4294967295)] -> 1
+[14:22:52] : [13]19:1-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 31, 5, 4294967295)] -> 1
+[14:22:52] : [13]19:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 14980, 1481817600)] -> 1
+[14:23:18] : [13]3:2-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 59005, 4294967295)] -> 1
+[14:23:18] : [13]3:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 0, 1481817600)] -> 1
+[14:23:18] : [13]3:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 104, 1, 1481817600)] -> 1
+[14:23:22] : [13]16:15-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 46900, 4294967295)] -> 1
+[14:23:22] : [13]16:14-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 31, 6, 4294967295)] -> 1
+[14:23:22] : [13]16:13-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 600, 1481817600)] -> 1
+[14:23:22] : [13]16:12-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 103, 1481783002, 1481817600)] -> 1
+[14:23:22] : [13]16:11-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 46200, 4294967295)] -> 1
+[14:23:22] : [13]16:10-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 31, 7, 4294967295)] -> 1
+[14:23:22] : [13]16:9-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 1200, 1481817600)] -> 1
+[14:23:22] : [13]16:8-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 45400, 4294967295)] -> 1
+[14:23:22] : [13]16:7-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 31, 8, 4294967295)] -> 1
+[14:23:22] : [13]16:6-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 1800, 1481817600)] -> 1
+[14:23:22] : [13]16:5-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 44500, 4294967295)] -> 1
+[14:23:22] : [13]16:4-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 31, 9, 4294967295)] -> 1
+[14:23:22] : [13]16:3-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 2400, 1481817600)] -> 1
+[14:23:22] : [13]16:2-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 43500, 4294967295)] -> 1
+[14:23:22] : [13]16:1-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 31, 10, 4294967295)] -> 1
+[14:23:22] : [13]16:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 3000, 1481817600)] -> 1
+[14:23:25] : [13]31:30-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 43400, 4294967295)] -> 1
+[14:23:25] : [13]31:29-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 32, 1, 4294967295)] -> 1
+[14:23:25] : [13]31:28-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 3598, 1481817600)] -> 1
+[14:23:25] : [13]31:27-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 103, 1481783004, 1481817600)] -> 1
+[14:23:25] : [13]31:26-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 43200, 4294967295)] -> 1
+[14:23:25] : [13]31:25-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 32, 2, 4294967295)] -> 1
+[14:23:25] : [13]31:24-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 4198, 1481817600)] -> 1
+[14:23:25] : [13]31:23-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 42900, 4294967295)] -> 1
+[14:23:25] : [13]31:22-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 32, 3, 4294967295)] -> 1
+[14:23:25] : [13]31:21-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 4798, 1481817600)] -> 1
+[14:23:25] : [13]31:20-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 42500, 4294967295)] -> 1
+[14:23:25] : [13]31:19-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 32, 4, 4294967295)] -> 1
+[14:23:25] : [13]31:18-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 5398, 1481817600)] -> 1
+[14:23:25] : [13]31:17-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 42000, 4294967295)] -> 1
+[14:23:25] : [13]31:16-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 32, 5, 4294967295)] -> 1
+[14:23:25] : [13]31:15-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 5998, 1481817600)] -> 1
+[14:23:25] : [13]31:14-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 41400, 4294967295)] -> 1
+[14:23:25] : [13]31:13-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 32, 6, 4294967295)] -> 1
+[14:23:25] : [13]31:12-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 6598, 1481817600)] -> 1
+[14:23:25] : [13]31:11-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 40700, 4294967295)] -> 1
+[14:23:25] : [13]31:10-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 32, 7, 4294967295)] -> 1
+[14:23:25] : [13]31:9-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 7198, 1481817600)] -> 1
+[14:23:25] : [13]31:8-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 39900, 4294967295)] -> 1
+[14:23:25] : [13]31:7-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 32, 8, 4294967295)] -> 1
+[14:23:25] : [13]31:6-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 7798, 1481817600)] -> 1
+[14:23:25] : [13]31:5-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 39000, 4294967295)] -> 1
+[14:23:25] : [13]31:4-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 32, 9, 4294967295)] -> 1
+[14:23:25] : [13]31:3-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 8398, 1481817600)] -> 1
+[14:23:25] : [13]31:2-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 38000, 4294967295)] -> 1
+[14:23:25] : [13]31:1-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,2, 32, 10, 4294967295)] -> 1
+[14:23:25] : [13]31:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 8998, 1481817600)] -> 1
+[14:23:30] : [13]31:30-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 37900, 4294967295)] -> 1
+[14:23:30] : [13]31:29-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,1001, 29, 1, 4294967295)] -> 1
+[14:23:30] : [13]31:28-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 9592, 1481817600)] -> 1
+[14:23:30] : [13]31:27-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 103, 1481783010, 1481817600)] -> 1
+[14:23:30] : [13]31:26-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 37700, 4294967295)] -> 1
+[14:23:30] : [13]31:25-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,1001, 29, 2, 4294967295)] -> 1
+[14:23:30] : [13]31:24-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 10192, 1481817600)] -> 1
+[14:23:30] : [13]31:23-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 37400, 4294967295)] -> 1
+[14:23:30] : [13]31:22-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,1001, 29, 3, 4294967295)] -> 1
+[14:23:30] : [13]31:21-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 10792, 1481817600)] -> 1
+[14:23:30] : [13]31:20-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 37000, 4294967295)] -> 1
+[14:23:30] : [13]31:19-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,1001, 29, 4, 4294967295)] -> 1
+[14:23:30] : [13]31:18-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 11392, 1481817600)] -> 1
+[14:23:30] : [13]31:17-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 36500, 4294967295)] -> 1
+[14:23:30] : [13]31:16-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,1001, 29, 5, 4294967295)] -> 1
+[14:23:30] : [13]31:15-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 11992, 1481817600)] -> 1
+[14:23:30] : [13]31:14-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 35900, 4294967295)] -> 1
+[14:23:30] : [13]31:13-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,1001, 29, 6, 4294967295)] -> 1
+[14:23:30] : [13]31:12-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 12592, 1481817600)] -> 1
+[14:23:30] : [13]31:11-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 35200, 4294967295)] -> 1
+[14:23:30] : [13]31:10-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,1001, 29, 7, 4294967295)] -> 1
+[14:23:30] : [13]31:9-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 13192, 1481817600)] -> 1
+[14:23:30] : [13]31:8-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 34400, 4294967295)] -> 1
+[14:23:30] : [13]31:7-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,1001, 29, 8, 4294967295)] -> 1
+[14:23:30] : [13]31:6-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 13792, 1481817600)] -> 1
+[14:23:30] : [13]31:5-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 33500, 4294967295)] -> 1
+[14:23:30] : [13]31:4-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,1001, 29, 9, 4294967295)] -> 1
+[14:23:30] : [13]31:3-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 14392, 1481817600)] -> 1
+[14:23:30] : [13]31:2-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 1, 32500, 4294967295)] -> 1
+[14:23:30] : [13]31:1-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,1001, 29, 10, 4294967295)] -> 1
+[14:23:30] : [13]31:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 102, 14992, 1481817600)] -> 1
+[14:23:55] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58995, 4294967295)] -> 1
+[14:23:55] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 720906, 1481817600)] -> 1
+[14:23:57] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58975, 4294967295)] -> 1
+[14:23:57] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 0, 4294967295)] -> 1
+[14:24:15] : [7]2:1-[update reportid set maxid = 1279 where type = 1] -> 1
+[14:24:15] : [7]2:0-[update reportid set maxid = 1280 where type = 1] -> 1
+[14:24:16] : [7]1:0-[update reportid set maxid = 1281 where type = 1] -> 1
+[14:24:17] : [7]2:1-[update reportid set maxid = 1282 where type = 1] -> 1
+[14:24:17] : [7]2:0-[update reportid set maxid = 1283 where type = 1] -> 1
+[14:24:17] : [7]2:1-[update reportid set maxid = 1284 where type = 1] -> 1
+[14:24:17] : [7]2:0-[update reportid set maxid = 1285 where type = 1] -> 1
+[14:24:19] : [7]1:0-[update reportid set maxid = 1286 where type = 1] -> 1
+[14:24:19] : [7]1:0-[update reportid set maxid = 1287 where type = 1] -> 1
+[14:24:20] : [7]1:0-[update reportid set maxid = 1288 where type = 1] -> 1
+[14:24:20] : [7]2:1-[update reportid set maxid = 1289 where type = 1] -> 1
+[14:24:20] : [7]2:0-[update reportid set maxid = 1290 where type = 1] -> 1
+[14:24:21] : [7]1:0-[update reportid set maxid = 1291 where type = 1] -> 1
+[14:24:21] : [7]2:1-[update reportid set maxid = 1292 where type = 1] -> 1
+[14:24:21] : [7]2:0-[update reportid set maxid = 1293 where type = 1] -> 1
+[14:24:22] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 720907, 1481817600)] -> 1
+[14:24:22] : [7]5:4-[update reportid set maxid = 1294 where type = 1] -> 1
+[14:24:22] : [7]5:3-[update reportid set maxid = 1295 where type = 1] -> 1
+[14:24:22] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481783662, 4294967295)] -> 1
+[14:24:22] : [7]5:2-[update reportid set maxid = 9962 where type = 0] -> 1
+[14:24:22] : [7]5:1-[delete from `arenaBrp` where `index` = 9957 ] -> 1
+[14:24:22] : [7]5:0-[replace into `arenaBrp` values(844424930131970,9962,'碎碎念',255,2907,11935)] -> 1
+[14:26:08] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58965, 4294967295)] -> 1
+[14:26:08] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 786443, 1481817600)] -> 1
+[14:26:10] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58945, 4294967295)] -> 1
+[14:26:10] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 0, 4294967295)] -> 1
+[14:26:28] : [7]1:0-[update reportid set maxid = 1296 where type = 1] -> 1
+[14:26:29] : [7]1:0-[update reportid set maxid = 1297 where type = 1] -> 1
+[14:26:29] : [7]1:0-[update reportid set maxid = 1298 where type = 1] -> 1
+[14:29:10] : [7]1:0-[update reportid set maxid = 1299 where type = 1] -> 1
+[14:29:11] : [7]2:1-[update reportid set maxid = 1300 where type = 1] -> 1
+[14:29:11] : [7]2:0-[update reportid set maxid = 1301 where type = 1] -> 1
+[14:29:38] : [7]1:0-[update reportid set maxid = 1302 where type = 1] -> 1
+[14:29:53] : [7]1:0-[update reportid set maxid = 1303 where type = 1] -> 1
+[14:29:53] : [7]2:1-[update reportid set maxid = 1304 where type = 1] -> 1
+[14:29:53] : [7]2:0-[update reportid set maxid = 1305 where type = 1] -> 1
+[14:29:54] : [7]1:0-[update reportid set maxid = 1306 where type = 1] -> 1
+[14:30:03] : [7]1:0-[update reportid set maxid = 1307 where type = 1] -> 1
+[14:30:03] : [7]1:0-[update reportid set maxid = 1308 where type = 1] -> 1
+[14:30:04] : [7]4:3-[update reportid set maxid = 1309 where type = 1] -> 1
+[14:30:04] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 786444, 1481817600)] -> 1
+[14:30:04] : [7]4:2-[update reportid set maxid = 9963 where type = 0] -> 1
+[14:30:04] : [7]4:1-[delete from `arenaBrp` where `index` = 9958 ] -> 1
+[14:30:04] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481784003, 4294967295)] -> 1
+[14:30:04] : [7]4:0-[replace into `arenaBrp` values(844424930131970,9963,'碎碎念',255,2907,11935)] -> 1
+[14:32:49] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58935, 4294967295)] -> 1
+[14:32:49] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 851980, 1481817600)] -> 1
+[14:32:50] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58915, 4294967295)] -> 1
+[14:32:50] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 0, 4294967295)] -> 1
+[14:33:04] : [7]1:0-[update reportid set maxid = 1310 where type = 1] -> 1
+[14:33:05] : [7]2:1-[update reportid set maxid = 1311 where type = 1] -> 1
+[14:33:05] : [7]2:0-[update reportid set maxid = 1312 where type = 1] -> 1
+[14:34:01] : [7]1:0-[update reportid set maxid = 1313 where type = 1] -> 1
+[14:35:13] : [7]2:1-[update reportid set maxid = 1314 where type = 1] -> 1
+[14:35:13] : [7]2:0-[update reportid set maxid = 1315 where type = 1] -> 1
+[14:37:07] : [7]1:0-[update reportid set maxid = 1316 where type = 1] -> 1
+[14:48:20] : [7]1:0-[update reportid set maxid = 1317 where type = 1] -> 1
+[14:48:21] : [7]3:2-[update reportid set maxid = 1318 where type = 1] -> 1
+[14:48:21] : [7]3:1-[update reportid set maxid = 1319 where type = 1] -> 1
+[14:48:21] : [7]3:0-[update reportid set maxid = 1320 where type = 1] -> 1
+[14:48:21] : [7]1:0-[update reportid set maxid = 1321 where type = 1] -> 1
+[14:48:22] : [7]1:0-[update reportid set maxid = 1322 where type = 1] -> 1
+[14:48:22] : [7]1:0-[update reportid set maxid = 1323 where type = 1] -> 1
+[14:48:23] : [7]5:4-[update reportid set maxid = 1324 where type = 1] -> 1
+[14:48:23] : [7]5:3-[update reportid set maxid = 1325 where type = 1] -> 1
+[14:48:23] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 851981, 1481817600)] -> 1
+[14:48:23] : [7]5:2-[update reportid set maxid = 9964 where type = 0] -> 1
+[14:48:23] : [7]5:1-[delete from `arenaBrp` where `index` = 9959 ] -> 1
+[14:48:23] : [7]5:0-[replace into `arenaBrp` values(844424930131970,9964,'碎碎念',255,2907,11935)] -> 1
+[14:48:23] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481785103, 4294967295)] -> 1
+[14:52:11] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58905, 4294967295)] -> 1
+[14:52:11] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 917517, 1481817600)] -> 1
+[14:52:12] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58885, 4294967295)] -> 1
+[14:52:12] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 0, 4294967295)] -> 1
+[14:52:34] : [7]1:0-[update reportid set maxid = 1326 where type = 1] -> 1
+[14:52:35] : [7]2:1-[update reportid set maxid = 1327 where type = 1] -> 1
+[14:52:35] : [7]2:0-[update reportid set maxid = 1328 where type = 1] -> 1
+[14:52:40] : [7]1:0-[update reportid set maxid = 1329 where type = 1] -> 1
+[14:52:41] : [7]2:1-[update reportid set maxid = 1330 where type = 1] -> 1
+[14:52:41] : [7]2:0-[update reportid set maxid = 1331 where type = 1] -> 1
+[14:52:49] : [7]1:0-[update reportid set maxid = 1332 where type = 1] -> 1
+[15:30:57] : [7]35:34-[delete from `arenaBrp` where `index` = 9916 ] -> 1
+[15:30:57] : [7]35:33-[delete from `arenaBrp` where `index` = 9918 ] -> 1
+[15:30:57] : [7]35:32-[delete from `arenaBrp` where `index` = 9919 ] -> 1
+[15:30:57] : [7]35:31-[delete from `arenaBrp` where `index` = 9920 ] -> 1
+[15:30:57] : [7]35:30-[delete from `arenaBrp` where `index` = 9928 ] -> 1
+[15:30:57] : [7]35:29-[delete from `arenaBrp` where `index` = 9929 ] -> 1
+[15:30:57] : [7]35:28-[delete from `arenaBrp` where `index` = 9930 ] -> 1
+[15:30:57] : [7]35:27-[delete from `arenaBrp` where `index` = 9931 ] -> 1
+[15:30:57] : [7]35:26-[delete from `arenaBrp` where `index` = 9932 ] -> 1
+[15:30:57] : [7]35:25-[delete from `arenaBrp` where `index` = 9935 ] -> 1
+[15:30:57] : [7]35:24-[delete from `arenaBrp` where `index` = 9936 ] -> 1
+[15:30:57] : [7]35:23-[delete from `arenaBrp` where `index` = 9937 ] -> 1
+[15:30:57] : [7]35:22-[delete from `arenaBrp` where `index` = 9938 ] -> 1
+[15:30:57] : [7]35:21-[delete from `arenaBrp` where `index` = 9939 ] -> 1
+[15:30:57] : [7]35:20-[delete from `arenaBrp` where `index` = 9940 ] -> 1
+[15:30:57] : [7]35:19-[delete from `arenaBrp` where `index` = 9941 ] -> 1
+[15:30:57] : [7]35:18-[delete from `arenaBrp` where `index` = 9942 ] -> 1
+[15:30:57] : [7]35:17-[delete from `arenaBrp` where `index` = 9943 ] -> 1
+[15:30:57] : [7]35:16-[delete from `arenaBrp` where `index` = 9944 ] -> 1
+[15:30:57] : [7]35:15-[delete from `arenaBrp` where `index` = 9945 ] -> 1
+[15:30:57] : [7]35:14-[delete from `arenaBrp` where `index` = 9946 ] -> 1
+[15:30:57] : [7]35:13-[delete from `arenaBrp` where `index` = 9947 ] -> 1
+[15:30:57] : [7]35:12-[delete from `arenaBrp` where `index` = 9948 ] -> 1
+[15:30:57] : [7]35:11-[delete from `arenaBrp` where `index` = 9949 ] -> 1
+[15:30:57] : [7]35:10-[delete from `arenaBrp` where `index` = 9950 ] -> 1
+[15:30:57] : [7]35:9-[delete from `arenaBrp` where `index` = 9951 ] -> 1
+[15:30:57] : [7]35:8-[delete from `arenaBrp` where `index` = 9952 ] -> 1
+[15:30:57] : [7]35:7-[delete from `arenaBrp` where `index` = 9953 ] -> 1
+[15:30:57] : [7]35:6-[delete from `arenaBrp` where `index` = 9954 ] -> 1
+[15:30:57] : [7]35:5-[delete from `arenaBrp` where `index` = 9955 ] -> 1
+[15:30:57] : [7]35:4-[delete from `arenaBrp` where `index` = 9956 ] -> 1
+[15:30:57] : [7]35:3-[delete from `arenaBrp` where `index` = 9957 ] -> 1
+[15:30:57] : [7]35:2-[delete from `arenaBrp` where `index` = 9958 ] -> 1
+[15:30:57] : [7]35:1-[delete from `arenaBrp` where `index` = 9959 ] -> 1
+[15:30:57] : [7]35:0-[insert into reportid values(0,1)] -> 0
+[15:31:03] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 78, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[15:31:11] : [13]1:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 25, 1191982580, 4294967295)] -> 1
+[15:31:29] : [7]1:0-[update reportid set maxid = 1333 where type = 1] -> 1
+[15:31:30] : [7]1:0-[update reportid set maxid = 1334 where type = 1] -> 1
+[15:31:30] : [7]1:0-[update reportid set maxid = 1335 where type = 1] -> 1
+[15:31:31] : [7]2:1-[update reportid set maxid = 1336 where type = 1] -> 1
+[15:31:31] : [7]2:0-[update reportid set maxid = 1337 where type = 1] -> 1
+[15:31:31] : [7]2:1-[update reportid set maxid = 1338 where type = 1] -> 1
+[15:31:31] : [7]2:0-[update reportid set maxid = 1339 where type = 1] -> 1
+[15:31:32] : [7]1:0-[update reportid set maxid = 1340 where type = 1] -> 1
+[15:31:32] : [7]1:0-[update reportid set maxid = 1341 where type = 1] -> 1
+[15:31:33] : [7]1:0-[update reportid set maxid = 1342 where type = 1] -> 1
+[15:31:33] : [7]2:1-[update reportid set maxid = 1343 where type = 1] -> 1
+[15:31:33] : [7]2:0-[update reportid set maxid = 1344 where type = 1] -> 1
+[15:31:34] : [7]2:1-[update reportid set maxid = 1345 where type = 1] -> 1
+[15:31:34] : [7]2:0-[update reportid set maxid = 1346 where type = 1] -> 1
+[15:31:34] : [7]1:0-[update reportid set maxid = 1347 where type = 1] -> 1
+[15:31:35] : [7]2:1-[update reportid set maxid = 1348 where type = 1] -> 1
+[15:31:35] : [7]2:0-[update reportid set maxid = 1349 where type = 1] -> 1
+[15:31:35] : [7]4:3-[update reportid set maxid = 1350 where type = 1] -> 1
+[15:31:35] : [7]4:2-[update reportid set maxid = 9965 where type = 0] -> 1
+[15:31:35] : [7]4:1-[delete from `arenaBrp` where `index` = 9960 ] -> 1
+[15:31:35] : [7]4:0-[replace into `arenaBrp` values(844424930131970,9965,'花满楼',255,2927,10860)] -> 1
+[15:31:35] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 917518, 1481817600)] -> 1
+[15:31:35] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481787695, 4294967295)] -> 1
+[15:36:48] : [7]35:34-[delete from `arenaBrp` where `index` = 9916 ] -> 1
+[15:36:48] : [7]35:33-[delete from `arenaBrp` where `index` = 9918 ] -> 1
+[15:36:48] : [7]35:32-[delete from `arenaBrp` where `index` = 9919 ] -> 1
+[15:36:48] : [7]35:31-[delete from `arenaBrp` where `index` = 9920 ] -> 1
+[15:36:48] : [7]35:30-[delete from `arenaBrp` where `index` = 9928 ] -> 1
+[15:36:48] : [7]35:29-[delete from `arenaBrp` where `index` = 9929 ] -> 1
+[15:36:48] : [7]35:28-[delete from `arenaBrp` where `index` = 9930 ] -> 1
+[15:36:48] : [7]35:27-[delete from `arenaBrp` where `index` = 9931 ] -> 1
+[15:36:48] : [7]35:26-[delete from `arenaBrp` where `index` = 9932 ] -> 1
+[15:36:48] : [7]35:25-[delete from `arenaBrp` where `index` = 9935 ] -> 1
+[15:36:48] : [7]35:24-[delete from `arenaBrp` where `index` = 9936 ] -> 1
+[15:36:48] : [7]35:23-[delete from `arenaBrp` where `index` = 9937 ] -> 1
+[15:36:48] : [7]35:22-[delete from `arenaBrp` where `index` = 9938 ] -> 1
+[15:36:48] : [7]35:21-[delete from `arenaBrp` where `index` = 9939 ] -> 1
+[15:36:48] : [7]35:20-[delete from `arenaBrp` where `index` = 9940 ] -> 1
+[15:36:48] : [7]35:19-[delete from `arenaBrp` where `index` = 9941 ] -> 1
+[15:36:48] : [7]35:18-[delete from `arenaBrp` where `index` = 9942 ] -> 1
+[15:36:48] : [7]35:17-[delete from `arenaBrp` where `index` = 9943 ] -> 1
+[15:36:48] : [7]35:16-[delete from `arenaBrp` where `index` = 9944 ] -> 1
+[15:36:48] : [7]35:15-[delete from `arenaBrp` where `index` = 9945 ] -> 1
+[15:36:48] : [7]35:14-[delete from `arenaBrp` where `index` = 9946 ] -> 1
+[15:36:48] : [7]35:13-[delete from `arenaBrp` where `index` = 9947 ] -> 1
+[15:36:48] : [7]35:12-[delete from `arenaBrp` where `index` = 9948 ] -> 1
+[15:36:48] : [7]35:11-[delete from `arenaBrp` where `index` = 9949 ] -> 1
+[15:36:48] : [7]35:10-[delete from `arenaBrp` where `index` = 9950 ] -> 1
+[15:36:48] : [7]35:9-[delete from `arenaBrp` where `index` = 9951 ] -> 1
+[15:36:48] : [7]35:8-[delete from `arenaBrp` where `index` = 9952 ] -> 1
+[15:36:48] : [7]35:7-[delete from `arenaBrp` where `index` = 9953 ] -> 1
+[15:36:48] : [7]35:6-[delete from `arenaBrp` where `index` = 9954 ] -> 1
+[15:36:48] : [7]35:5-[delete from `arenaBrp` where `index` = 9955 ] -> 1
+[15:36:48] : [7]35:4-[delete from `arenaBrp` where `index` = 9956 ] -> 1
+[15:36:48] : [7]35:3-[delete from `arenaBrp` where `index` = 9957 ] -> 1
+[15:36:48] : [7]35:2-[delete from `arenaBrp` where `index` = 9958 ] -> 1
+[15:36:48] : [7]35:1-[delete from `arenaBrp` where `index` = 9959 ] -> 1
+[15:36:48] : [7]35:0-[delete from `arenaBrp` where `index` = 9960 ] -> 1
+[15:36:49] : [7]1:0-[insert into reportid values(0,1)] -> 0
+[15:37:03] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 79, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[15:37:15] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58875, 4294967295)] -> 1
+[15:37:15] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 983054, 1481817600)] -> 1
+[15:37:16] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58855, 4294967295)] -> 1
+[15:37:16] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 0, 4294967295)] -> 1
+[15:38:25] : [7]3:2-[update reportid set maxid = 1351 where type = 1] -> 1
+[15:38:25] : [7]3:1-[update reportid set maxid = 1352 where type = 1] -> 1
+[15:38:25] : [7]3:0-[update reportid set maxid = 1353 where type = 1] -> 1
+[15:38:25] : [7]1:0-[update reportid set maxid = 1354 where type = 1] -> 1
+[15:38:39] : [7]1:0-[update reportid set maxid = 1355 where type = 1] -> 1
+[15:38:40] : [7]2:1-[update reportid set maxid = 1356 where type = 1] -> 1
+[15:38:40] : [7]2:0-[update reportid set maxid = 1357 where type = 1] -> 1
+[15:38:50] : [7]1:0-[update reportid set maxid = 1358 where type = 1] -> 1
+[15:51:03] : [7]36:35-[delete from `arenaBrp` where `index` = 9916 ] -> 1
+[15:51:03] : [7]36:34-[delete from `arenaBrp` where `index` = 9918 ] -> 1
+[15:51:03] : [7]36:33-[delete from `arenaBrp` where `index` = 9919 ] -> 1
+[15:51:03] : [7]36:32-[delete from `arenaBrp` where `index` = 9920 ] -> 1
+[15:51:03] : [7]36:31-[delete from `arenaBrp` where `index` = 9928 ] -> 1
+[15:51:03] : [7]36:30-[delete from `arenaBrp` where `index` = 9929 ] -> 1
+[15:51:03] : [7]36:29-[delete from `arenaBrp` where `index` = 9930 ] -> 1
+[15:51:03] : [7]36:28-[delete from `arenaBrp` where `index` = 9931 ] -> 1
+[15:51:03] : [7]36:27-[delete from `arenaBrp` where `index` = 9932 ] -> 1
+[15:51:03] : [7]36:26-[delete from `arenaBrp` where `index` = 9935 ] -> 1
+[15:51:03] : [7]36:25-[delete from `arenaBrp` where `index` = 9936 ] -> 1
+[15:51:03] : [7]36:24-[delete from `arenaBrp` where `index` = 9937 ] -> 1
+[15:51:03] : [7]36:23-[delete from `arenaBrp` where `index` = 9938 ] -> 1
+[15:51:03] : [7]36:22-[delete from `arenaBrp` where `index` = 9939 ] -> 1
+[15:51:03] : [7]36:21-[delete from `arenaBrp` where `index` = 9940 ] -> 1
+[15:51:03] : [7]36:20-[delete from `arenaBrp` where `index` = 9941 ] -> 1
+[15:51:03] : [7]36:19-[delete from `arenaBrp` where `index` = 9942 ] -> 1
+[15:51:03] : [7]36:18-[delete from `arenaBrp` where `index` = 9943 ] -> 1
+[15:51:03] : [7]36:17-[delete from `arenaBrp` where `index` = 9944 ] -> 1
+[15:51:03] : [7]36:16-[delete from `arenaBrp` where `index` = 9945 ] -> 1
+[15:51:03] : [7]36:15-[delete from `arenaBrp` where `index` = 9946 ] -> 1
+[15:51:03] : [7]36:14-[delete from `arenaBrp` where `index` = 9947 ] -> 1
+[15:51:03] : [7]36:13-[delete from `arenaBrp` where `index` = 9948 ] -> 1
+[15:51:03] : [7]36:12-[delete from `arenaBrp` where `index` = 9949 ] -> 1
+[15:51:03] : [7]36:11-[delete from `arenaBrp` where `index` = 9950 ] -> 1
+[15:51:03] : [7]36:10-[delete from `arenaBrp` where `index` = 9951 ] -> 1
+[15:51:03] : [7]36:9-[delete from `arenaBrp` where `index` = 9952 ] -> 1
+[15:51:03] : [7]36:8-[delete from `arenaBrp` where `index` = 9953 ] -> 1
+[15:51:03] : [7]36:7-[delete from `arenaBrp` where `index` = 9954 ] -> 1
+[15:51:03] : [7]36:6-[delete from `arenaBrp` where `index` = 9955 ] -> 1
+[15:51:03] : [7]36:5-[delete from `arenaBrp` where `index` = 9956 ] -> 1
+[15:51:03] : [7]36:4-[delete from `arenaBrp` where `index` = 9957 ] -> 1
+[15:51:03] : [7]36:3-[delete from `arenaBrp` where `index` = 9958 ] -> 1
+[15:51:03] : [7]36:2-[delete from `arenaBrp` where `index` = 9959 ] -> 1
+[15:51:03] : [7]36:1-[delete from `arenaBrp` where `index` = 9960 ] -> 1
+[15:51:03] : [7]36:0-[insert into reportid values(0,1)] -> 0
+[15:51:36] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 80, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[15:52:09] : [7]2:1-[update reportid set maxid = 1359 where type = 1] -> 1
+[15:52:09] : [7]2:0-[update reportid set maxid = 1360 where type = 1] -> 1
+[15:52:10] : [7]1:0-[update reportid set maxid = 1361 where type = 1] -> 1
+[15:52:10] : [7]1:0-[update reportid set maxid = 1362 where type = 1] -> 1
+[15:52:11] : [7]2:1-[update reportid set maxid = 1363 where type = 1] -> 1
+[15:52:11] : [7]2:0-[update reportid set maxid = 1364 where type = 1] -> 1
+[15:52:11] : [7]3:2-[update reportid set maxid = 1365 where type = 1] -> 1
+[15:52:11] : [7]3:1-[update reportid set maxid = 1366 where type = 1] -> 1
+[15:52:11] : [7]3:0-[update reportid set maxid = 1367 where type = 1] -> 1
+[15:52:12] : [7]1:0-[update reportid set maxid = 1368 where type = 1] -> 1
+[15:52:12] : [7]2:1-[update reportid set maxid = 1369 where type = 1] -> 1
+[15:52:12] : [7]2:0-[update reportid set maxid = 1370 where type = 1] -> 1
+[15:52:13] : [7]3:2-[update reportid set maxid = 1371 where type = 1] -> 1
+[15:52:13] : [7]3:1-[update reportid set maxid = 1372 where type = 1] -> 1
+[15:52:13] : [7]3:0-[update reportid set maxid = 1373 where type = 1] -> 1
+[15:52:14] : [7]3:2-[update reportid set maxid = 1374 where type = 1] -> 1
+[15:52:14] : [7]3:1-[update reportid set maxid = 1375 where type = 1] -> 1
+[15:52:14] : [7]3:0-[update reportid set maxid = 1376 where type = 1] -> 1
+[15:52:14] : [7]4:3-[update reportid set maxid = 1377 where type = 1] -> 1
+[15:52:14] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 983055, 1481817600)] -> 1
+[15:52:14] : [7]4:2-[update reportid set maxid = 9966 where type = 0] -> 1
+[15:52:14] : [7]4:1-[delete from `arenaBrp` where `index` = 9961 ] -> 1
+[15:52:14] : [7]4:0-[replace into `arenaBrp` values(844424930131970,9966,'花满楼',255,2927,10860)] -> 1
+[15:52:14] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481788934, 4294967295)] -> 1
+[15:56:17] : [13]1:0-[update clan_player set `isClanBattle` = 1 where (clanId = 101 and  playerId  =  844424930131970)] -> 1
+[15:56:49] : [13]2:1-[REPLACE INTO `gvar` (`id`, `data`, `over`) VALUES (3, 0, 4294967295)] -> 1
+[15:56:49] : [13]2:0-[delete from `clan_battle_pos`  where roomId=0 ] -> 1
+[15:56:49] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 81, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[15:56:55] : [13]3:2-[update clan_player set `isClanBattle` = 1 where (clanId = 101 and playerId = 844424930131970)] -> 1
+[15:56:55] : [13]3:1-[INSERT INTO  `clan_battle_room`(`roomId`,`forceId`,`battleId`,`clans`,`fighterNum`,`buildTime`) VALUES(101, 1 ,1, '101',1, 1481788615)] -> 1
+[15:56:56] : [13]3:0-[update clan set battleRoomId = 101 , forceId = 1 where clanId=101] -> 1
+[15:57:06] : [13]4:3-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101,24,844424930131970,2,4,8)] -> 1
+[15:57:06] : [7]1:0-[UPDATE `fighter` SET `initMapId` = 19 WHERE playerId = 844424930131970 and fighterId = 2] -> 1
+[15:57:06] : [13]4:2-[update `clan_battle_pos`  set `soldiersHP` = '214,214,214,214,214,214,214,214,214,214' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:57:06] : [13]4:1-[update `clan_battle_pos`  set `mainFighterHP` = 2100 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:57:06] : [13]4:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 90, 1, 1482076800)] -> 1
+[15:57:07] : [13]6:5-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101,24,844424930131970,1001,3,9)] -> 1
+[15:57:07] : [7]1:0-[UPDATE `fighter` SET `initMapId` = 19 WHERE playerId = 844424930131970 and fighterId = 1001] -> 1
+[15:57:07] : [13]6:4-[update `clan_battle_pos`  set `soldiersHP` = '214,214,214,214,214,214,214,214,214,214' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1001] -> 1
+[15:57:07] : [13]6:3-[update `fvar` set data = 1 where playerId = 844424930131970 and fighterId = 1001 and id = 28] -> 1
+[15:57:07] : [13]6:2-[update `fvar` set over = 1482076800 where playerId = 844424930131970 and fighterId = 1001 and id = 28] -> 1
+[15:57:08] : [13]6:1-[update `clan_battle_pos`  set `mainFighterHP` = 2100 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1001] -> 1
+[15:57:08] : [13]6:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 90, 2, 1482076800)] -> 1
+[15:57:10] : [7]1:0-[UPDATE `fighter` SET `initMapId` = 19 WHERE playerId = 844424930131970 and fighterId = 1003] -> 1
+[15:57:10] : [13]6:5-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101,24,844424930131970,1003,4,10)] -> 1
+[15:57:10] : [13]6:4-[update `clan_battle_pos`  set `soldiersHP` = '174,174,174,174,174,174,174,174,174,174' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1003] -> 1
+[15:57:10] : [13]6:3-[update `fvar` set data = 1 where playerId = 844424930131970 and fighterId = 1003 and id = 28] -> 1
+[15:57:10] : [13]6:2-[update `fvar` set over = 1482076800 where playerId = 844424930131970 and fighterId = 1003 and id = 28] -> 1
+[15:57:10] : [13]6:1-[update `clan_battle_pos`  set `mainFighterHP` = 1600 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1003] -> 1
+[15:57:10] : [13]6:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 90, 3, 1482076800)] -> 1
+[15:57:12] : [7]1:0-[UPDATE `fighter` SET `initMapId` = 19 WHERE playerId = 844424930131970 and fighterId = 1006] -> 1
+[15:57:12] : [13]5:4-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101,24,844424930131970,1006,3,11)] -> 1
+[15:57:12] : [13]5:3-[update `clan_battle_pos`  set `soldiersHP` = '107,107,107,107,107,107,107,107,107,107' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1006] -> 1
+[15:57:12] : [13]5:2-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,1006, 28, 1, 1482076800)] -> 1
+[15:57:12] : [13]5:1-[update `clan_battle_pos`  set `mainFighterHP` = 800 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1006] -> 1
+[15:57:12] : [13]5:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 90, 4, 1482076800)] -> 1
+[15:57:13] : [7]1:0-[UPDATE `fighter` SET `initMapId` = 19 WHERE playerId = 844424930131970 and fighterId = 1014] -> 1
+[15:57:13] : [13]5:4-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101,24,844424930131970,1014,4,12)] -> 1
+[15:57:13] : [13]5:3-[update `clan_battle_pos`  set `soldiersHP` = '214,214,214,214,214,214,214,214,214,214' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1014] -> 1
+[15:57:14] : [13]5:2-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,1014, 28, 1, 1482076800)] -> 1
+[15:57:14] : [13]5:1-[update `clan_battle_pos`  set `mainFighterHP` = 1600 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1014] -> 1
+[15:57:14] : [13]5:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 90, 5, 1482076800)] -> 1
+[15:57:15] : [7]1:0-[UPDATE `fighter` SET `initMapId` = 19 WHERE playerId = 844424930131970 and fighterId = 1016] -> 1
+[15:57:15] : [13]5:4-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101,24,844424930131970,1016,3,10)] -> 1
+[15:57:16] : [13]5:3-[update `clan_battle_pos`  set `soldiersHP` = '214,214,214,214,214,214,214,214,214,214' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1016] -> 1
+[15:57:16] : [13]5:2-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,1016, 28, 1, 1482076800)] -> 1
+[15:57:16] : [13]5:1-[update `clan_battle_pos`  set `mainFighterHP` = 1600 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1016] -> 1
+[15:57:16] : [13]5:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 90, 6, 1482076800)] -> 1
+[15:57:17] : [7]1:0-[UPDATE `fighter` SET `initMapId` = 19 WHERE playerId = 844424930131970 and fighterId = 1017] -> 1
+[15:57:18] : [13]5:4-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101,24,844424930131970,1017,3,12)] -> 1
+[15:57:18] : [13]5:3-[update `clan_battle_pos`  set `soldiersHP` = '214,214,214,214,214,214,214,214,214,214' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1017] -> 1
+[15:57:18] : [13]5:2-[REPLACE INTO `fvar` (`playerId`,`fighterId` ,`id`, `data`, `over`) VALUES (844424930131970,1017, 28, 1, 1482076800)] -> 1
+[15:57:18] : [13]5:1-[update `clan_battle_pos`  set `mainFighterHP` = 1600 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1017] -> 1
+[15:57:18] : [13]5:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 90, 7, 1482076800)] -> 1
+[15:57:25] : [13]1:0-[REPLACE INTO `gvar` (`id`, `data`, `over`) VALUES (3, 1, 4294967295)] -> 1
+[15:57:25] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 82, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[15:57:26] : [13]4:3-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:57:27] : [13]4:2-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101,24,844424930131970,2,7,8)] -> 1
+[15:57:27] : [13]4:1-[update `clan_battle_pos`  set `mainFighterHP` = 2100 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:57:27] : [13]4:0-[update `clan_battle_pos`  set `soldiersHP` = '214,214,214,214,214,214,214,214,214,214' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:57:27] : [7]2:1-[update reportid set maxid = 1378 where type = 1] -> 1
+[15:57:27] : [7]2:0-[update reportid set maxid = 1379 where type = 1] -> 1
+[15:57:27] : [13]31:30-[update `clan_battle_pos`  set `mainFighterHP` = 1977 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:57:27] : [13]31:29-[update `clan_battle_pos`  set `soldiersHP` = '300,300,300,300,300,300,300,300,300,300' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:57:27] : [13]31:28-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1003] -> 1
+[15:57:27] : [13]31:27-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101,24,844424930131970,1003,6,10)] -> 1
+[15:57:27] : [13]31:26-[update `clan_battle_pos`  set `mainFighterHP` = 1600 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1003] -> 1
+[15:57:27] : [13]31:25-[update `clan_battle_pos`  set `soldiersHP` = '174,174,174,174,174,174,174,174,174,174' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1003] -> 1
+[15:57:27] : [13]31:24-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1014] -> 1
+[15:57:27] : [13]31:23-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101,24,844424930131970,1014,6,12)] -> 1
+[15:57:27] : [13]31:22-[update `clan_battle_pos`  set `mainFighterHP` = 1600 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1014] -> 1
+[15:57:27] : [13]31:21-[update `clan_battle_pos`  set `soldiersHP` = '214,214,214,214,214,214,214,214,214,214' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1014] -> 1
+[15:57:27] : [13]31:20-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1001] -> 1
+[15:57:27] : [13]31:19-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101,24,844424930131970,1001,5,9)] -> 1
+[15:57:27] : [13]31:18-[update `clan_battle_pos`  set `mainFighterHP` = 2100 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1001] -> 1
+[15:57:27] : [13]31:17-[update `clan_battle_pos`  set `soldiersHP` = '214,214,214,214,214,214,214,214,214,214' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1001] -> 1
+[15:57:27] : [13]31:16-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1016] -> 1
+[15:57:27] : [13]31:15-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101,24,844424930131970,1016,5,10)] -> 1
+[15:57:27] : [13]31:14-[update `clan_battle_pos`  set `mainFighterHP` = 1600 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1016] -> 1
+[15:57:27] : [13]31:13-[update `clan_battle_pos`  set `soldiersHP` = '214,214,214,214,214,214,214,214,214,214' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1016] -> 1
+[15:57:27] : [13]31:12-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1006] -> 1
+[15:57:27] : [13]31:11-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101,24,844424930131970,1006,5,11)] -> 1
+[15:57:27] : [13]31:10-[update `clan_battle_pos`  set `mainFighterHP` = 800 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1006] -> 1
+[15:57:27] : [13]31:9-[update `clan_battle_pos`  set `soldiersHP` = '107,107,107,107,107,107,107,107,107,107' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1006] -> 1
+[15:57:27] : [13]31:8-[update `clan_battle_pos`  set `mainFighterHP` = 618 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1006] -> 1
+[15:57:27] : [13]31:7-[update `clan_battle_pos`  set `soldiersHP` = '48,28,25,17,56,64,110,9,56,9' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1006] -> 1
+[15:57:27] : [13]31:6-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1017] -> 1
+[15:57:27] : [13]31:5-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101,24,844424930131970,1017,4,10)] -> 1
+[15:57:27] : [7]1:0-[update reportid set maxid = 1380 where type = 1] -> 1
+[15:57:27] : [13]31:4-[update `clan_battle_pos`  set `mainFighterHP` = 1600 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1017] -> 1
+[15:57:28] : [13]31:3-[update `clan_battle_pos`  set `soldiersHP` = '214,214,214,214,214,214,214,214,214,214' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1017] -> 1
+[15:57:28] : [13]31:2-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 6, 9)] -> 1
+[15:57:28] : [13]31:1-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:28] : [13]31:0-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:28] : [13]6:5-[update `clan_battle_pos`  set `mainFighterHP` = 288 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:28] : [13]6:4-[update `clan_battle_pos`  set `soldiersHP` = '150,0,12,150,12,58,12,58,12,12' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:28] : [13]6:3-[update `clan_battle_pos`  set `mainFighterHP` = 1930 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:57:28] : [13]6:2-[update `clan_battle_pos`  set `soldiersHP` = '178,191,253,260,300,253,253,253,206,216' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:57:28] : [13]6:1-[update `clan_battle_pos`  set `mainFighterHP` = 1805 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:57:28] : [13]6:0-[update `clan_battle_pos`  set `soldiersHP` = '84,105,159,174,167,112,112,159,65,130' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:57:28] : [7]2:1-[update reportid set maxid = 1381 where type = 1] -> 1
+[15:57:28] : [7]2:0-[update reportid set maxid = 1382 where type = 1] -> 1
+[15:57:28] : [13]5:4-[update `clan_battle_pos`  set `mainFighterHP` = 1659 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:57:28] : [13]5:3-[update `clan_battle_pos`  set `soldiersHP` = '0,11,26,41,26,0,18,26,0,83' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:57:28] : [13]5:2-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 7, 11)] -> 1
+[15:57:28] : [13]5:1-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:28] : [13]5:0-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:29] : [7]1:0-[update reportid set maxid = 1383 where type = 1] -> 1
+[15:57:29] : [13]4:3-[update `clan_battle_pos`  set `mainFighterHP` = 800 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:29] : [13]4:2-[update `clan_battle_pos`  set `soldiersHP` = '150,150,150,150,150,150,150,150,150,150' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:29] : [13]4:1-[update `clan_battle_pos`  set `mainFighterHP` = 1305 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1014] -> 1
+[15:57:29] : [13]4:0-[update `clan_battle_pos`  set `soldiersHP` = '97,97,206,167,214,159,206,159,214,159' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1014] -> 1
+[15:57:29] : [7]3:2-[update reportid set maxid = 1384 where type = 1] -> 1
+[15:57:29] : [7]3:1-[update reportid set maxid = 1385 where type = 1] -> 1
+[15:57:29] : [7]3:0-[update reportid set maxid = 1386 where type = 1] -> 1
+[15:57:29] : [13]14:13-[update `clan_battle_pos`  set `mainFighterHP` = 985 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1014] -> 1
+[15:57:30] : [13]14:12-[update `clan_battle_pos`  set `soldiersHP` = '0,0,73,73,120,26,65,18,73,26' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1014] -> 1
+[15:57:30] : [13]14:11-[update `clan_battle_pos`  set `mainFighterHP` = 1488 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:57:30] : [13]14:10-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,0,0,0,0,0,0,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:57:30] : [13]14:9-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 7, 9)] -> 1
+[15:57:30] : [13]14:8-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:30] : [13]14:7-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:30] : [13]14:6-[update `clan_battle_pos`  set `mainFighterHP` = 800 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:30] : [13]14:5-[update `clan_battle_pos`  set `soldiersHP` = '150,150,150,150,150,150,150,150,150,150' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:30] : [13]14:4-[update `clan_battle_pos`  set `mainFighterHP` = 1361 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1003] -> 1
+[15:57:30] : [13]14:3-[update `clan_battle_pos`  set `soldiersHP` = '174,213,166,166,166,220,174,166,166,166' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1003] -> 1
+[15:57:30] : [13]14:2-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 7, 10)] -> 1
+[15:57:30] : [13]14:1-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:30] : [13]14:0-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:30] : [7]2:1-[update reportid set maxid = 1387 where type = 1] -> 1
+[15:57:30] : [7]2:0-[update reportid set maxid = 1388 where type = 1] -> 1
+[15:57:30] : [13]14:13-[update `clan_battle_pos`  set `mainFighterHP` = 800 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:30] : [13]14:12-[update `clan_battle_pos`  set `soldiersHP` = '150,150,150,150,150,150,150,150,150,150' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:30] : [13]14:11-[update `clan_battle_pos`  set `mainFighterHP` = 310 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1014] -> 1
+[15:57:30] : [13]14:10-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,0,0,0,0,0,0,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1014] -> 1
+[15:57:30] : [13]14:9-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 8, 11)] -> 1
+[15:57:30] : [13]14:8-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:30] : [13]14:7-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:30] : [13]14:6-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 7, 12)] -> 1
+[15:57:30] : [13]14:5-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:30] : [13]14:4-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:30] : [13]14:3-[update `clan_battle_pos`  set `mainFighterHP` = 800 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:30] : [13]14:2-[update `clan_battle_pos`  set `soldiersHP` = '150,150,150,150,150,150,150,150,150,150' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:30] : [13]14:1-[update `clan_battle_pos`  set `mainFighterHP` = 1066 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1003] -> 1
+[15:57:30] : [13]14:0-[update `clan_battle_pos`  set `soldiersHP` = '26,10,33,41,25,126,33,25,72,72' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1003] -> 1
+[15:57:30] : [7]1:0-[update reportid set maxid = 9968 where type = 0] -> 1
+[15:57:30] : [13]46:45-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 8, 8)] -> 1
+[15:57:30] : [13]46:44-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:30] : [13]46:43-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:30] : [13]46:42-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 9, 9)] -> 1
+[15:57:30] : [13]46:41-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:30] : [13]46:40-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:30] : [13]46:39-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 9, 10)] -> 1
+[15:57:30] : [13]46:38-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:30] : [13]46:37-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:30] : [13]46:36-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 9, 11)] -> 1
+[15:57:31] : [13]46:35-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:34-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:33-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 9, 12)] -> 1
+[15:57:31] : [13]46:32-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:31-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:30-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 10, 8)] -> 1
+[15:57:31] : [13]46:29-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:28-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:27-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 10, 9)] -> 1
+[15:57:31] : [13]46:26-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:25-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:24-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 10, 10)] -> 1
+[15:57:31] : [13]46:23-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:22-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:21-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 10, 11)] -> 1
+[15:57:31] : [13]46:20-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:19-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:18-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 10, 12)] -> 1
+[15:57:31] : [13]46:17-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:16-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:15-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 11, 8)] -> 1
+[15:57:31] : [13]46:14-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:13-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:12-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 11, 9)] -> 1
+[15:57:31] : [13]46:11-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:10-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:9-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 11, 10)] -> 1
+[15:57:31] : [13]46:8-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:7-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:6-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 11, 11)] -> 1
+[15:57:31] : [13]46:5-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:4-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:3-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 11, 12)] -> 1
+[15:57:31] : [13]46:2-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:1-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:57:31] : [13]46:0-[REPLACE INTO `report2id` value(101,24,1,9968,1481788650)] -> 1
+[15:58:30] : [7]1:0-[update reportid set maxid = 1389 where type = 1] -> 1
+[15:58:30] : [13]4:3-[update `clan_battle_pos`  set `mainFighterHP` = 1362 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:58:30] : [13]4:2-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,0,0,0,0,0,0,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:58:30] : [13]4:1-[update `clan_battle_pos`  set `mainFighterHP` = 288 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:30] : [13]4:0-[update `clan_battle_pos`  set `soldiersHP` = '150,0,150,150,150,150,150,150,150,150' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:30] : [7]1:0-[update reportid set maxid = 1390 where type = 1] -> 1
+[15:58:30] : [13]3:2-[update `clan_battle_pos`  set `mainFighterHP` = 950 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1003] -> 1
+[15:58:30] : [13]3:1-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,0,0,32,0,25,25,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1003] -> 1
+[15:58:31] : [13]3:0-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:31] : [7]1:0-[update reportid set maxid = 1391 where type = 1] -> 1
+[15:58:31] : [13]8:7-[update `clan_battle_pos`  set `mainFighterHP` = 753 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1014] -> 1
+[15:58:31] : [13]8:6-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,0,0,0,0,0,0,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1014] -> 1
+[15:58:31] : [13]8:5-[update `clan_battle_pos`  set `mainFighterHP` = 464 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:31] : [13]8:4-[update `clan_battle_pos`  set `soldiersHP` = '150,0,150,150,150,150,150,150,150,150' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:31] : [13]8:3-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1001] -> 1
+[15:58:31] : [13]8:2-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101,24,844424930131970,1001,6,9)] -> 1
+[15:58:31] : [13]8:1-[update `clan_battle_pos`  set `mainFighterHP` = 2100 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1001] -> 1
+[15:58:31] : [13]8:0-[update `clan_battle_pos`  set `soldiersHP` = '214,214,214,214,214,214,214,214,214,214' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1001] -> 1
+[15:58:31] : [7]1:0-[update reportid set maxid = 1392 where type = 1] -> 1
+[15:58:31] : [13]8:7-[update `clan_battle_pos`  set `mainFighterHP` = 2041 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1001] -> 1
+[15:58:31] : [13]8:6-[update `clan_battle_pos`  set `soldiersHP` = '256,220,227,176,212,212,256,220,256,212' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1001] -> 1
+[15:58:31] : [13]8:5-[update `clan_battle_pos`  set `mainFighterHP` = 22 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:31] : [13]8:4-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,0,0,0,0,0,0,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:32] : [13]8:3-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1016] -> 1
+[15:58:32] : [13]8:2-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101,24,844424930131970,1016,6,11)] -> 1
+[15:58:32] : [13]8:1-[update `clan_battle_pos`  set `mainFighterHP` = 1600 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1016] -> 1
+[15:58:32] : [13]8:0-[update `clan_battle_pos`  set `soldiersHP` = '214,214,214,214,214,214,214,214,214,214' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1016] -> 1
+[15:58:32] : [7]2:1-[update reportid set maxid = 1393 where type = 1] -> 1
+[15:58:32] : [7]2:0-[update reportid set maxid = 1394 where type = 1] -> 1
+[15:58:32] : [13]7:6-[update `clan_battle_pos`  set `mainFighterHP` = 1423 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1016] -> 1
+[15:58:32] : [13]7:5-[update `clan_battle_pos`  set `soldiersHP` = '135,143,209,253,209,216,209,206,217,256' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1016] -> 1
+[15:58:32] : [13]7:4-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:32] : [13]7:3-[update `clan_battle_pos`  set `mainFighterHP` = 206 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1006] -> 1
+[15:58:32] : [13]7:2-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,0,0,0,16,0,0,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1006] -> 1
+[15:58:32] : [13]7:1-[update `clan_battle_pos`  set `mainFighterHP` = 528 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:32] : [13]7:0-[update `clan_battle_pos`  set `soldiersHP` = '0,0,103,110,9,103,103,25,103,103' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:32] : [7]2:1-[update reportid set maxid = 1395 where type = 1] -> 1
+[15:58:32] : [7]2:0-[update reportid set maxid = 1396 where type = 1] -> 1
+[15:58:32] : [13]9:8-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1017] -> 1
+[15:58:33] : [13]9:7-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101,24,844424930131970,1017,7,10)] -> 1
+[15:58:33] : [13]9:6-[update `clan_battle_pos`  set `mainFighterHP` = 1600 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1017] -> 1
+[15:58:33] : [13]9:5-[update `clan_battle_pos`  set `soldiersHP` = '214,214,214,214,214,214,214,214,214,214' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1017] -> 1
+[15:58:33] : [13]9:4-[update `clan_battle_pos`  set `mainFighterHP` = 1543 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1017] -> 1
+[15:58:33] : [13]9:3-[update `clan_battle_pos`  set `soldiersHP` = '237,237,225,225,225,225,237,237,225,225' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1017] -> 1
+[15:58:33] : [13]9:2-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:33] : [13]9:1-[update `clan_battle_pos`  set `mainFighterHP` = 1231 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:58:33] : [13]9:0-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,0,0,0,0,0,0,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:58:33] : [7]2:1-[update reportid set maxid = 1397 where type = 1] -> 1
+[15:58:33] : [7]2:0-[update reportid set maxid = 1398 where type = 1] -> 1
+[15:58:33] : [13]9:8-[update `clan_battle_pos`  set `mainFighterHP` = 1078 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:58:33] : [13]9:7-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,0,0,0,0,0,0,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:58:33] : [13]9:6-[update `clan_battle_pos`  set `mainFighterHP` = 528 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:33] : [13]9:5-[update `clan_battle_pos`  set `soldiersHP` = '0,0,103,110,9,103,103,25,103,103' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:33] : [13]9:4-[update `fvar` set data = 2 where playerId = 844424930131970 and fighterId = 1014 and id = 28] -> 1
+[15:58:33] : [13]9:3-[update `fvar` set over = 1482076800 where playerId = 844424930131970 and fighterId = 1014 and id = 28] -> 1
+[15:58:33] : [13]9:2-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 98, 100, 1482076800)] -> 1
+[15:58:33] : [13]9:1-[delete from fvar where `playerId` = 844424930131970 and fighterId = 1014 and `id` = 28 ] -> 1
+[15:58:33] : [13]9:0-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1014] -> 1
+[15:58:33] : [7]1:0-[update reportid set maxid = 1399 where type = 1] -> 1
+[15:58:33] : [13]2:1-[update `clan_battle_pos`  set `mainFighterHP` = 1248 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1017] -> 1
+[15:58:33] : [13]2:0-[update `clan_battle_pos`  set `soldiersHP` = '22,22,100,131,131,131,96,96,131,84' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1017] -> 1
+[15:58:34] : [7]2:1-[update reportid set maxid = 1400 where type = 1] -> 1
+[15:58:34] : [7]2:0-[update reportid set maxid = 1401 where type = 1] -> 1
+[15:58:34] : [13]6:5-[update `clan_battle_pos`  set `mainFighterHP` = 845 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:58:34] : [13]6:4-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,0,0,0,0,0,0,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:58:34] : [13]6:3-[update `clan_battle_pos`  set `mainFighterHP` = 800 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:34] : [13]6:2-[update `clan_battle_pos`  set `soldiersHP` = '150,150,150,150,150,150,150,150,150,150' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:34] : [13]6:1-[update `clan_battle_pos`  set `mainFighterHP` = 929 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1017] -> 1
+[15:58:34] : [13]6:0-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,37,0,0,49,2,0,5' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1017] -> 1
+[15:58:34] : [7]2:1-[update reportid set maxid = 1402 where type = 1] -> 1
+[15:58:34] : [13]15:14-[update `clan_battle_pos`  set `mainFighterHP` = 464 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:34] : [13]15:13-[update `clan_battle_pos`  set `soldiersHP` = '150,0,150,150,150,150,150,150,150,150' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:34] : [7]2:0-[update reportid set maxid = 1403 where type = 1] -> 1
+[15:58:34] : [13]15:12-[update `clan_battle_pos`  set `mainFighterHP` = 235 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1017] -> 1
+[15:58:35] : [13]15:11-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,0,0,0,2,0,0,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1017] -> 1
+[15:58:35] : [13]15:10-[update `clan_battle_pos`  set `mainFighterHP` = 288 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]15:9-[update `clan_battle_pos`  set `soldiersHP` = '150,0,150,150,150,150,150,150,150,150' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]15:8-[update `fvar` set data = 2 where playerId = 844424930131970 and fighterId = 1017 and id = 28] -> 1
+[15:58:35] : [13]15:7-[update `fvar` set over = 1482076800 where playerId = 844424930131970 and fighterId = 1017 and id = 28] -> 1
+[15:58:35] : [13]15:6-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 98, 0, 1482076800)] -> 1
+[15:58:35] : [13]15:5-[delete from fvar where `playerId` = 844424930131970 and fighterId = 1017 and `id` = 28 ] -> 1
+[15:58:35] : [13]15:4-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1017] -> 1
+[15:58:35] : [13]15:3-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]15:2-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 7, 9)] -> 1
+[15:58:35] : [13]15:1-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]15:0-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [7]2:1-[update reportid set maxid = 1404 where type = 1] -> 1
+[15:58:35] : [13]57:56-[update `clan_battle_pos`  set `mainFighterHP` = 800 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [7]2:0-[update reportid set maxid = 9969 where type = 0] -> 1
+[15:58:35] : [13]57:55-[update `clan_battle_pos`  set `soldiersHP` = '150,150,150,150,150,150,150,150,150,150' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:54-[update `clan_battle_pos`  set `mainFighterHP` = 173 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1003] -> 1
+[15:58:35] : [13]57:53-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,0,0,0,0,0,0,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1003] -> 1
+[15:58:35] : [13]57:52-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:51-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 7, 10)] -> 1
+[15:58:35] : [13]57:50-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:49-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:48-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:47-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 9, 13)] -> 1
+[15:58:35] : [13]57:46-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:45-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:44-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:43-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 9, 10)] -> 1
+[15:58:35] : [13]57:42-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:41-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:40-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:39-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 8, 7)] -> 1
+[15:58:35] : [13]57:38-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:37-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:36-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:35-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 9, 9)] -> 1
+[15:58:35] : [13]57:34-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:33-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:32-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:31-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 10, 8)] -> 1
+[15:58:35] : [13]57:30-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:29-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:28-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:27-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 9, 11)] -> 1
+[15:58:35] : [13]57:26-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:25-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:24-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:23-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 10, 10)] -> 1
+[15:58:35] : [13]57:22-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:21-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:20-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:19-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 9, 7)] -> 1
+[15:58:35] : [13]57:18-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:17-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:16-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:15-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 10, 9)] -> 1
+[15:58:35] : [13]57:14-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:13-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:12-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:11-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 11, 8)] -> 1
+[15:58:35] : [13]57:10-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:9-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:35] : [13]57:8-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:36] : [13]57:7-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 10, 11)] -> 1
+[15:58:36] : [13]57:6-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:36] : [13]57:5-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:36] : [13]57:4-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:36] : [13]57:3-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 10, 12)] -> 1
+[15:58:36] : [13]57:2-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:36] : [13]57:1-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:58:36] : [13]57:0-[REPLACE INTO `report2id` value(101,24,2,9969,1481788715)] -> 1
+[15:59:56] : [7]2:1-[update reportid set maxid = 1405 where type = 1] -> 1
+[15:59:56] : [7]2:0-[update reportid set maxid = 1406 where type = 1] -> 1
+[15:59:57] : [13]8:7-[update `clan_battle_pos`  set `mainFighterHP` = 821 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:59:57] : [13]8:6-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,0,0,0,0,0,0,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:59:57] : [13]8:5-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:57] : [13]8:4-[update `fvar` set data = 2 where playerId = 844424930131970 and fighterId = 1003 and id = 28] -> 1
+[15:59:57] : [13]8:3-[update `fvar` set over = 1482076800 where playerId = 844424930131970 and fighterId = 1003 and id = 28] -> 1
+[15:59:57] : [13]8:2-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1003] -> 1
+[15:59:57] : [13]8:1-[update `clan_battle_pos`  set `mainFighterHP` = 800 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:57] : [13]8:0-[update `clan_battle_pos`  set `soldiersHP` = '150,150,150,150,150,150,150,150,150,150' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:57] : [7]1:0-[update reportid set maxid = 1407 where type = 1] -> 1
+[15:59:57] : [13]3:2-[update `clan_battle_pos`  set `mainFighterHP` = 1830 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1001] -> 1
+[15:59:57] : [13]3:1-[update `clan_battle_pos`  set `soldiersHP` = '122,129,183,85,121,121,122,86,173,78' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1001] -> 1
+[15:59:57] : [13]3:0-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:57] : [7]2:1-[update reportid set maxid = 1408 where type = 1] -> 1
+[15:59:57] : [7]2:0-[update reportid set maxid = 1409 where type = 1] -> 1
+[15:59:57] : [13]8:7-[update `clan_battle_pos`  set `mainFighterHP` = 1182 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1016] -> 1
+[15:59:57] : [13]8:6-[update `clan_battle_pos`  set `soldiersHP` = '1,0,53,119,118,82,118,159,90,122' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1016] -> 1
+[15:59:57] : [13]8:5-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:58] : [13]8:4-[update `fvar` set data = 2 where playerId = 844424930131970 and fighterId = 1006 and id = 28] -> 1
+[15:59:58] : [13]8:3-[update `fvar` set over = 1482076800 where playerId = 844424930131970 and fighterId = 1006 and id = 28] -> 1
+[15:59:58] : [13]8:2-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1006] -> 1
+[15:59:58] : [13]8:1-[update `clan_battle_pos`  set `mainFighterHP` = 406 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:58] : [13]8:0-[update `clan_battle_pos`  set `soldiersHP` = '0,0,103,110,9,103,56,25,103,103' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:58] : [7]3:2-[update reportid set maxid = 1410 where type = 1] -> 1
+[15:59:58] : [7]3:1-[update reportid set maxid = 1411 where type = 1] -> 1
+[15:59:58] : [13]12:11-[update `clan_battle_pos`  set `mainFighterHP` = 646 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:59:58] : [7]3:0-[update reportid set maxid = 1412 where type = 1] -> 1
+[15:59:58] : [13]12:10-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,0,0,0,0,0,0,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:59:58] : [13]12:9-[update `clan_battle_pos`  set `mainFighterHP` = 493 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:59:58] : [13]12:8-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,0,0,0,0,0,0,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:59:58] : [13]12:7-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:58] : [13]12:6-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 7, 10)] -> 1
+[15:59:58] : [13]12:5-[update `clan_battle_pos`  set `mainFighterHP` = 406 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:58] : [13]12:4-[update `clan_battle_pos`  set `soldiersHP` = '0,0,103,110,9,103,56,25,103,103' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:58] : [13]12:3-[update `clan_battle_pos`  set `mainFighterHP` = 406 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:58] : [13]12:2-[update `clan_battle_pos`  set `soldiersHP` = '0,0,103,110,9,103,56,25,103,103' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:58] : [13]12:1-[update `clan_battle_pos`  set `mainFighterHP` = 321 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:59:58] : [13]12:0-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,0,0,0,0,0,0,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:59:58] : [7]4:3-[update reportid set maxid = 1413 where type = 1] -> 1
+[15:59:58] : [7]4:2-[update reportid set maxid = 1414 where type = 1] -> 1
+[15:59:58] : [7]4:1-[update reportid set maxid = 1415 where type = 1] -> 1
+[15:59:58] : [13]25:24-[update `clan_battle_pos`  set `mainFighterHP` = 863 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1016] -> 1
+[15:59:58] : [7]4:0-[update reportid set maxid = 1416 where type = 1] -> 1
+[15:59:58] : [13]25:23-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,25,0,0,0,73,0,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1016] -> 1
+[15:59:59] : [13]25:22-[update `clan_battle_pos`  set `mainFighterHP` = 169 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:59:59] : [13]25:21-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,0,0,0,0,0,0,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:59:59] : [13]25:20-[update `clan_battle_pos`  set `mainFighterHP` = 800 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]25:19-[update `clan_battle_pos`  set `soldiersHP` = '150,150,150,150,150,150,150,150,150,150' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]25:18-[update `clan_battle_pos`  set `mainFighterHP` = 92 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1016] -> 1
+[15:59:59] : [13]25:17-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,0,0,0,0,0,0,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1016] -> 1
+[15:59:59] : [13]25:16-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]25:15-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 6, 12)] -> 1
+[15:59:59] : [13]25:14-[update `clan_battle_pos`  set `mainFighterHP` = 464 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]25:13-[update `clan_battle_pos`  set `soldiersHP` = '150,0,150,150,150,150,150,150,150,150' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]25:12-[update `clan_battle_pos`  set `mainFighterHP` = 464 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]25:11-[update `clan_battle_pos`  set `soldiersHP` = '150,0,150,150,150,150,150,150,150,150' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]25:10-[update `fvar` set data = 2 where playerId = 844424930131970 and fighterId = 1016 and id = 28] -> 1
+[15:59:59] : [13]25:9-[update `fvar` set over = 1482076800 where playerId = 844424930131970 and fighterId = 1016 and id = 28] -> 1
+[15:59:59] : [13]25:8-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1016] -> 1
+[15:59:59] : [13]25:7-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]25:6-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 9, 12)] -> 1
+[15:59:59] : [13]25:5-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]25:4-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]25:3-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [7]3:2-[update reportid set maxid = 1417 where type = 1] -> 1
+[15:59:59] : [7]3:1-[update reportid set maxid = 1418 where type = 1] -> 1
+[15:59:59] : [7]3:0-[update reportid set maxid = 1419 where type = 1] -> 1
+[15:59:59] : [13]25:2-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 7, 9)] -> 1
+[15:59:59] : [13]25:1-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]25:0-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:36-[update `clan_battle_pos`  set `mainFighterHP` = 800 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:35-[update `clan_battle_pos`  set `soldiersHP` = '150,150,150,150,150,150,150,150,150,150' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:34-[update `clan_battle_pos`  set `mainFighterHP` = 40 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:59:59] : [13]37:33-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,0,0,0,0,0,0,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[15:59:59] : [13]37:32-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:31-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 8, 8)] -> 1
+[15:59:59] : [13]37:30-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:29-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:28-[update `clan_battle_pos`  set `mainFighterHP` = 800 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:27-[update `clan_battle_pos`  set `soldiersHP` = '150,150,150,150,150,150,150,150,150,150' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:26-[update `clan_battle_pos`  set `mainFighterHP` = 1572 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1001] -> 1
+[15:59:59] : [13]37:25-[update `clan_battle_pos`  set `soldiersHP` = '43,0,50,0,74,0,28,0,40,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1001] -> 1
+[15:59:59] : [13]37:24-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:23-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 9, 6)] -> 1
+[15:59:59] : [13]37:22-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:21-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:20-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:19-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 7, 11)] -> 1
+[15:59:59] : [13]37:18-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:17-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:16-[update `clan_battle_pos`  set `mainFighterHP` = 800 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:15-[update `clan_battle_pos`  set `soldiersHP` = '150,150,150,150,150,150,150,150,150,150' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:14-[update `clan_battle_pos`  set `mainFighterHP` = 814 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1001] -> 1
+[15:59:59] : [13]37:13-[update `clan_battle_pos`  set `soldiersHP` = '0,0,0,0,0,0,0,0,0,0' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1001] -> 1
+[15:59:59] : [13]37:12-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:11-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 9, 9)] -> 1
+[15:59:59] : [13]37:10-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:9-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:8-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:7-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 7, 7)] -> 1
+[15:59:59] : [13]37:6-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:5-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:4-[update `clan_battle_pos`  set `mainFighterHP` = 800 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:3-[update `clan_battle_pos`  set `soldiersHP` = '150,150,150,150,150,150,150,150,150,150' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]37:2-[update `fvar` set data = 2 where playerId = 844424930131970 and fighterId = 1001 and id = 28] -> 1
+[15:59:59] : [13]37:1-[update `fvar` set over = 1482076800 where playerId = 844424930131970 and fighterId = 1001 and id = 28] -> 1
+[15:59:59] : [13]37:0-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 1001] -> 1
+[15:59:59] : [7]2:1-[update reportid set maxid = 1420 where type = 1] -> 1
+[15:59:59] : [7]2:0-[update reportid set maxid = 9970 where type = 0] -> 1
+[15:59:59] : [13]17:16-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]17:15-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 9, 10)] -> 1
+[15:59:59] : [13]17:14-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]17:13-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[15:59:59] : [13]17:12-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:00:00] : [13]17:11-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 10, 8)] -> 1
+[16:00:00] : [13]17:10-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:00:00] : [13]17:9-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:00:00] : [13]17:8-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:00:00] : [13]17:7-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 9, 11)] -> 1
+[16:00:00] : [13]17:6-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:00:00] : [13]17:5-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:00:00] : [13]17:4-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:00:00] : [13]17:3-[REPLACE INTO `clan_battle_pos`(`roomId`,`mapId`,`playerId`,`fighterId`,`posx`,`posy`) value(101, 24, 0, 3003, 10, 10)] -> 1
+[16:00:00] : [13]17:2-[update `clan_battle_pos`  set `mainFighterHP` = 750 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:00:00] : [13]17:1-[update `clan_battle_pos`  set `soldiersHP` = '100,100,100,100,100,100,100,100,100,100' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:00:00] : [13]17:0-[REPLACE INTO `report2id` value(101,24,3,9970,1481788799)] -> 1
+[16:01:18] : [7]2:1-[update reportid set maxid = 1421 where type = 1] -> 1
+[16:01:18] : [13]6:5-[update `fvar` set data = 2 where playerId = 844424930131970 and fighterId = 2 and id = 28] -> 1
+[16:01:19] : [13]6:4-[update `fvar` set over = 1482076800 where playerId = 844424930131970 and fighterId = 2 and id = 28] -> 1
+[16:01:19] : [13]6:3-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 844424930131970  AND `fighterId` = 2] -> 1
+[16:01:19] : [7]2:0-[update reportid set maxid = 9971 where type = 0] -> 1
+[16:01:19] : [13]6:2-[update `clan_battle_pos`  set `mainFighterHP` = 800 where `roomId`=101 AND`mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:01:19] : [13]6:1-[update `clan_battle_pos`  set `soldiersHP` = '150,150,150,150,150,150,150,150,150,150' where `roomId`=101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:01:19] : [13]6:0-[REPLACE INTO `report2id` value(101,24,4,9971,1481788878)] -> 1
+[16:02:54] : [13]16:15-[REPLACE INTO `gvar` (`id`, `data`, `over`) VALUES (3, 0, 4294967295)] -> 1
+[16:02:54] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 83, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[16:02:54] : [13]16:14-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:02:54] : [13]16:13-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:02:54] : [13]16:12-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:02:54] : [13]16:11-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:02:54] : [13]16:10-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:02:54] : [13]16:9-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:02:54] : [13]16:8-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:02:54] : [13]16:7-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:02:54] : [13]16:6-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:02:54] : [13]16:5-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:02:54] : [13]16:4-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:02:54] : [13]16:3-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:02:54] : [13]16:2-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:02:54] : [13]16:1-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:02:54] : [13]16:0-[delete from `clan_battle_pos` where `roomId` = 101 AND `mapId`= 24 AND `playerId` = 0  AND `fighterId` = 3003] -> 1
+[16:02:54] : [13]1:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 98, 100, 1482076800)] -> 1
+[16:06:01] : [7]7:6-[UPDATE `fighter` SET `initMapId` = 0 WHERE playerId = 844424930131970 and fighterId = 2] -> 1
+[16:06:01] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 84, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[16:06:01] : [13]6:5-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 90, 0, 1482076800)] -> 1
+[16:06:01] : [13]6:4-[update clan_player set `isClanBattle` = 0 where clanId = 101] -> 1
+[16:06:01] : [7]7:5-[UPDATE `fighter` SET `initMapId` = 0 WHERE playerId = 844424930131970 and fighterId = 1001] -> 1
+[16:06:01] : [7]7:4-[UPDATE `fighter` SET `initMapId` = 0 WHERE playerId = 844424930131970 and fighterId = 1003] -> 1
+[16:06:01] : [7]7:3-[UPDATE `fighter` SET `initMapId` = 0 WHERE playerId = 844424930131970 and fighterId = 1006] -> 1
+[16:06:01] : [13]6:3-[delete from `clan_battle_room`  where roomId=101 ] -> 1
+[16:06:01] : [13]6:2-[delete from `clan_battle_pos`  where roomId=101 ] -> 1
+[16:06:01] : [7]7:2-[UPDATE `fighter` SET `initMapId` = 0 WHERE playerId = 844424930131970 and fighterId = 1014] -> 1
+[16:06:01] : [7]7:1-[UPDATE `fighter` SET `initMapId` = 0 WHERE playerId = 844424930131970 and fighterId = 1016] -> 1
+[16:06:01] : [13]6:1-[delete from `report2id`  where roomId=101 ] -> 1
+[16:06:01] : [13]6:0-[delete from `clan_battle_citystatus`  where roomId=101 ] -> 1
+[16:06:01] : [7]7:0-[UPDATE `fighter` SET `initMapId` = 0 WHERE playerId = 844424930131970 and fighterId = 1017] -> 1
+[16:06:19] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 85, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[16:06:26] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58845, 4294967295)] -> 1
+[16:06:26] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 1048591, 1481817600)] -> 1
+[16:06:46] : [7]1:0-[update reportid set maxid = 1422 where type = 1] -> 1
+[16:06:47] : [7]1:0-[update reportid set maxid = 1423 where type = 1] -> 1
+[16:06:47] : [7]1:0-[update reportid set maxid = 1424 where type = 1] -> 1
+[16:06:48] : [7]3:2-[update reportid set maxid = 1425 where type = 1] -> 1
+[16:06:48] : [7]3:1-[update reportid set maxid = 1426 where type = 1] -> 1
+[16:06:48] : [7]3:0-[update reportid set maxid = 1427 where type = 1] -> 1
+[16:06:48] : [7]4:3-[update reportid set maxid = 1428 where type = 1] -> 1
+[16:06:48] : [7]4:2-[update reportid set maxid = 1429 where type = 1] -> 1
+[16:06:48] : [7]4:1-[update reportid set maxid = 1430 where type = 1] -> 1
+[16:06:48] : [7]4:0-[update reportid set maxid = 1431 where type = 1] -> 1
+[16:06:49] : [7]1:0-[update reportid set maxid = 1432 where type = 1] -> 1
+[16:06:49] : [7]1:0-[update reportid set maxid = 1433 where type = 1] -> 1
+[16:06:50] : [7]2:1-[update reportid set maxid = 1434 where type = 1] -> 1
+[16:06:50] : [7]2:0-[update reportid set maxid = 1435 where type = 1] -> 1
+[16:06:51] : [7]3:2-[update reportid set maxid = 1436 where type = 1] -> 1
+[16:06:51] : [7]3:1-[update reportid set maxid = 1437 where type = 1] -> 1
+[16:06:51] : [7]3:0-[update reportid set maxid = 1438 where type = 1] -> 1
+[16:06:51] : [7]4:3-[update reportid set maxid = 1439 where type = 1] -> 1
+[16:06:51] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 1048592, 1481817600)] -> 1
+[16:06:51] : [7]4:2-[update reportid set maxid = 9972 where type = 0] -> 1
+[16:06:51] : [7]4:1-[delete from `arenaBrp` where `index` = 9962 ] -> 1
+[16:06:51] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481789811, 4294967295)] -> 1
+[16:06:52] : [7]4:0-[replace into `arenaBrp` values(844424930131970,9972,'花满楼',255,2927,10860)] -> 1
+[16:16:23] : [7]38:37-[delete from `arenaBrp` where `index` = 9916 ] -> 1
+[16:16:23] : [7]38:36-[delete from `arenaBrp` where `index` = 9918 ] -> 1
+[16:16:23] : [7]38:35-[delete from `arenaBrp` where `index` = 9919 ] -> 1
+[16:16:23] : [7]38:34-[delete from `arenaBrp` where `index` = 9920 ] -> 1
+[16:16:23] : [7]38:33-[delete from `arenaBrp` where `index` = 9928 ] -> 1
+[16:16:23] : [7]38:32-[delete from `arenaBrp` where `index` = 9929 ] -> 1
+[16:16:23] : [7]38:31-[delete from `arenaBrp` where `index` = 9930 ] -> 1
+[16:16:23] : [7]38:30-[delete from `arenaBrp` where `index` = 9931 ] -> 1
+[16:16:23] : [7]38:29-[delete from `arenaBrp` where `index` = 9932 ] -> 1
+[16:16:23] : [7]38:28-[delete from `arenaBrp` where `index` = 9935 ] -> 1
+[16:16:23] : [7]38:27-[delete from `arenaBrp` where `index` = 9936 ] -> 1
+[16:16:23] : [7]38:26-[delete from `arenaBrp` where `index` = 9937 ] -> 1
+[16:16:23] : [7]38:25-[delete from `arenaBrp` where `index` = 9938 ] -> 1
+[16:16:23] : [7]38:24-[delete from `arenaBrp` where `index` = 9939 ] -> 1
+[16:16:23] : [7]38:23-[delete from `arenaBrp` where `index` = 9940 ] -> 1
+[16:16:23] : [7]38:22-[delete from `arenaBrp` where `index` = 9941 ] -> 1
+[16:16:23] : [7]38:21-[delete from `arenaBrp` where `index` = 9942 ] -> 1
+[16:16:23] : [7]38:20-[delete from `arenaBrp` where `index` = 9943 ] -> 1
+[16:16:23] : [7]38:19-[delete from `arenaBrp` where `index` = 9944 ] -> 1
+[16:16:23] : [7]38:18-[delete from `arenaBrp` where `index` = 9945 ] -> 1
+[16:16:23] : [7]38:17-[delete from `arenaBrp` where `index` = 9946 ] -> 1
+[16:16:23] : [7]38:16-[delete from `arenaBrp` where `index` = 9947 ] -> 1
+[16:16:23] : [7]38:15-[delete from `arenaBrp` where `index` = 9948 ] -> 1
+[16:16:23] : [7]38:14-[delete from `arenaBrp` where `index` = 9949 ] -> 1
+[16:16:23] : [7]38:13-[delete from `arenaBrp` where `index` = 9950 ] -> 1
+[16:16:23] : [7]38:12-[delete from `arenaBrp` where `index` = 9951 ] -> 1
+[16:16:23] : [7]38:11-[delete from `arenaBrp` where `index` = 9952 ] -> 1
+[16:16:23] : [7]38:10-[delete from `arenaBrp` where `index` = 9953 ] -> 1
+[16:16:23] : [7]38:9-[delete from `arenaBrp` where `index` = 9954 ] -> 1
+[16:16:23] : [7]38:8-[delete from `arenaBrp` where `index` = 9955 ] -> 1
+[16:16:23] : [7]38:7-[delete from `arenaBrp` where `index` = 9956 ] -> 1
+[16:16:23] : [7]38:6-[delete from `arenaBrp` where `index` = 9957 ] -> 1
+[16:16:23] : [7]38:5-[delete from `arenaBrp` where `index` = 9958 ] -> 1
+[16:16:23] : [7]38:4-[delete from `arenaBrp` where `index` = 9959 ] -> 1
+[16:16:23] : [7]38:3-[delete from `arenaBrp` where `index` = 9960 ] -> 1
+[16:16:23] : [7]38:2-[delete from `arenaBrp` where `index` = 9961 ] -> 1
+[16:16:23] : [7]38:1-[delete from `arenaBrp` where `index` = 9962 ] -> 1
+[16:16:23] : [7]38:0-[insert into reportid values(0,1)] -> 0
+[16:16:23] : [13]1:0-[REPLACE INTO `gvar` (`id`, `data`, `over`) VALUES (3, 3, 4294967295)] -> 1
+[16:16:31] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 86, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[16:16:38] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58835, 4294967295)] -> 1
+[16:16:38] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 1114128, 1481817600)] -> 1
+[16:16:39] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58815, 4294967295)] -> 1
+[16:16:39] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 0, 4294967295)] -> 1
+[16:16:51] : [7]2:1-[update reportid set maxid = 1440 where type = 1] -> 1
+[16:16:51] : [7]2:0-[update reportid set maxid = 1441 where type = 1] -> 1
+[16:16:51] : [7]3:2-[update reportid set maxid = 1442 where type = 1] -> 1
+[16:16:51] : [7]3:1-[update reportid set maxid = 1443 where type = 1] -> 1
+[16:16:51] : [7]3:0-[update reportid set maxid = 1444 where type = 1] -> 1
+[16:16:52] : [7]2:1-[update reportid set maxid = 1445 where type = 1] -> 1
+[16:16:52] : [7]2:0-[update reportid set maxid = 1446 where type = 1] -> 1
+[16:16:52] : [7]2:1-[update reportid set maxid = 1447 where type = 1] -> 1
+[16:16:52] : [7]2:0-[update reportid set maxid = 1448 where type = 1] -> 1
+[16:16:53] : [7]2:1-[update reportid set maxid = 1449 where type = 1] -> 1
+[16:16:53] : [7]2:0-[update reportid set maxid = 1450 where type = 1] -> 1
+[16:16:53] : [7]3:2-[update reportid set maxid = 1451 where type = 1] -> 1
+[16:16:53] : [7]3:1-[update reportid set maxid = 1452 where type = 1] -> 1
+[16:16:53] : [7]3:0-[update reportid set maxid = 1453 where type = 1] -> 1
+[16:16:53] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 1114129, 1481817600)] -> 1
+[16:16:53] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481790413, 4294967295)] -> 1
+[16:16:54] : [7]4:3-[update reportid set maxid = 1454 where type = 1] -> 1
+[16:16:54] : [7]4:2-[update reportid set maxid = 9973 where type = 0] -> 1
+[16:16:54] : [7]4:1-[delete from `arenaBrp` where `index` = 9963 ] -> 1
+[16:16:54] : [7]4:0-[replace into `arenaBrp` values(844424930131970,9973,'花满楼',255,2927,10860)] -> 1
+[16:17:53] : [13]1:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58805, 4294967295)] -> 1
+[16:17:54] : [13]1:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 1179665, 1481817600)] -> 1
+[16:17:54] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58785, 4294967295)] -> 1
+[16:17:54] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 0, 4294967295)] -> 1
+[16:18:10] : [7]1:0-[update reportid set maxid = 1455 where type = 1] -> 1
+[16:18:11] : [7]1:0-[update reportid set maxid = 1456 where type = 1] -> 1
+[16:18:12] : [7]1:0-[update reportid set maxid = 1457 where type = 1] -> 1
+[16:18:12] : [7]2:1-[update reportid set maxid = 1458 where type = 1] -> 1
+[16:18:12] : [7]2:0-[update reportid set maxid = 1459 where type = 1] -> 1
+[16:18:13] : [7]4:3-[update reportid set maxid = 1460 where type = 1] -> 1
+[16:18:13] : [7]4:2-[update reportid set maxid = 1461 where type = 1] -> 1
+[16:18:13] : [7]4:1-[update reportid set maxid = 1462 where type = 1] -> 1
+[16:18:13] : [7]4:0-[update reportid set maxid = 1463 where type = 1] -> 1
+[16:18:13] : [7]2:1-[update reportid set maxid = 1464 where type = 1] -> 1
+[16:18:13] : [7]2:0-[update reportid set maxid = 1465 where type = 1] -> 1
+[16:18:14] : [7]1:0-[update reportid set maxid = 1466 where type = 1] -> 1
+[16:18:14] : [7]3:2-[update reportid set maxid = 1467 where type = 1] -> 1
+[16:18:14] : [7]3:1-[update reportid set maxid = 1468 where type = 1] -> 1
+[16:18:14] : [7]3:0-[update reportid set maxid = 1469 where type = 1] -> 1
+[16:18:15] : [7]4:3-[update reportid set maxid = 1470 where type = 1] -> 1
+[16:18:15] : [7]4:2-[update reportid set maxid = 9974 where type = 0] -> 1
+[16:18:15] : [7]4:1-[delete from `arenaBrp` where `index` = 9964 ] -> 1
+[16:18:15] : [7]4:0-[replace into `arenaBrp` values(844424930131970,9974,'花满楼',255,2927,10860)] -> 1
+[16:18:15] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 1179666, 1481817600)] -> 1
+[16:18:15] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481790494, 4294967295)] -> 1
+[16:20:17] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58775, 4294967295)] -> 1
+[16:20:17] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 1245202, 1481817600)] -> 1
+[16:20:19] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58755, 4294967295)] -> 1
+[16:20:19] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 0, 4294967295)] -> 1
+[16:20:31] : [7]3:2-[update reportid set maxid = 1471 where type = 1] -> 1
+[16:20:31] : [7]3:1-[update reportid set maxid = 1472 where type = 1] -> 1
+[16:20:31] : [7]3:0-[update reportid set maxid = 1473 where type = 1] -> 1
+[16:20:32] : [7]2:1-[update reportid set maxid = 1474 where type = 1] -> 1
+[16:20:32] : [7]2:0-[update reportid set maxid = 1475 where type = 1] -> 1
+[16:20:32] : [7]1:0-[update reportid set maxid = 1476 where type = 1] -> 1
+[16:20:33] : [7]2:1-[update reportid set maxid = 1477 where type = 1] -> 1
+[16:20:33] : [7]2:0-[update reportid set maxid = 1478 where type = 1] -> 1
+[16:20:33] : [7]1:0-[update reportid set maxid = 1479 where type = 1] -> 1
+[16:20:34] : [7]1:0-[update reportid set maxid = 1480 where type = 1] -> 1
+[16:20:34] : [7]2:1-[update reportid set maxid = 1481 where type = 1] -> 1
+[16:20:34] : [7]2:0-[update reportid set maxid = 1482 where type = 1] -> 1
+[16:20:35] : [7]2:1-[update reportid set maxid = 1483 where type = 1] -> 1
+[16:20:35] : [7]2:0-[update reportid set maxid = 1484 where type = 1] -> 1
+[16:20:36] : [7]3:2-[update reportid set maxid = 1485 where type = 1] -> 1
+[16:20:36] : [7]3:1-[update reportid set maxid = 1486 where type = 1] -> 1
+[16:20:36] : [7]3:0-[update reportid set maxid = 1487 where type = 1] -> 1
+[16:20:36] : [7]4:3-[update reportid set maxid = 1488 where type = 1] -> 1
+[16:20:36] : [7]4:2-[update reportid set maxid = 9975 where type = 0] -> 1
+[16:20:36] : [7]4:1-[delete from `arenaBrp` where `index` = 9965 ] -> 1
+[16:20:36] : [7]4:0-[replace into `arenaBrp` values(844424930131970,9975,'花满楼',255,2927,10860)] -> 1
+[16:20:36] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 1245203, 1481817600)] -> 1
+[16:20:36] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481790636, 4294967295)] -> 1
+[16:21:26] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58745, 4294967295)] -> 1
+[16:21:26] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 1310739, 1481817600)] -> 1
+[16:21:26] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58725, 4294967295)] -> 1
+[16:21:26] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 0, 4294967295)] -> 1
+[16:21:43] : [7]1:0-[update reportid set maxid = 1489 where type = 1] -> 1
+[16:21:43] : [7]1:0-[update reportid set maxid = 1490 where type = 1] -> 1
+[16:21:44] : [7]1:0-[update reportid set maxid = 1491 where type = 1] -> 1
+[16:21:44] : [7]2:1-[update reportid set maxid = 1492 where type = 1] -> 1
+[16:21:44] : [7]2:0-[update reportid set maxid = 1493 where type = 1] -> 1
+[16:21:45] : [7]2:1-[update reportid set maxid = 1494 where type = 1] -> 1
+[16:21:45] : [7]2:0-[update reportid set maxid = 1495 where type = 1] -> 1
+[16:21:45] : [7]1:0-[update reportid set maxid = 1496 where type = 1] -> 1
+[16:21:46] : [7]2:1-[update reportid set maxid = 1497 where type = 1] -> 1
+[16:21:46] : [7]2:0-[update reportid set maxid = 1498 where type = 1] -> 1
+[16:21:46] : [7]1:0-[update reportid set maxid = 1499 where type = 1] -> 1
+[16:21:47] : [7]3:2-[update reportid set maxid = 1500 where type = 1] -> 1
+[16:21:47] : [7]3:1-[update reportid set maxid = 1501 where type = 1] -> 1
+[16:21:47] : [7]3:0-[update reportid set maxid = 1502 where type = 1] -> 1
+[16:21:47] : [7]5:4-[update reportid set maxid = 1503 where type = 1] -> 1
+[16:21:47] : [7]5:3-[update reportid set maxid = 1504 where type = 1] -> 1
+[16:21:47] : [7]5:2-[update reportid set maxid = 9976 where type = 0] -> 1
+[16:21:47] : [7]5:1-[delete from `arenaBrp` where `index` = 9966 ] -> 1
+[16:21:47] : [7]5:0-[replace into `arenaBrp` values(844424930131970,9976,'花满楼',255,2927,10860)] -> 1
+[16:21:47] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 1310740, 1481817600)] -> 1
+[16:21:47] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481790707, 4294967295)] -> 1
+[16:27:16] : [8]1:0-[REPLACE INTO `mail`(`id`,`playerId`,`contextId`,`items`,`option`,`overTime`) VALUES( 87, 844424930131970, 1, '1,1',0,4294967295)] -> 1
+[16:31:39] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58715, 4294967295)] -> 1
+[16:31:39] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 1376276, 1481817600)] -> 1
+[16:31:39] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 2, 58695, 4294967295)] -> 1
+[16:31:39] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 0, 4294967295)] -> 1
+[16:31:51] : [7]2:1-[update reportid set maxid = 1505 where type = 1] -> 1
+[16:31:51] : [7]2:0-[update reportid set maxid = 1506 where type = 1] -> 1
+[16:31:52] : [7]3:2-[update reportid set maxid = 1507 where type = 1] -> 1
+[16:31:52] : [7]3:1-[update reportid set maxid = 1508 where type = 1] -> 1
+[16:31:52] : [7]3:0-[update reportid set maxid = 1509 where type = 1] -> 1
+[16:31:52] : [7]3:2-[update reportid set maxid = 1510 where type = 1] -> 1
+[16:31:52] : [7]3:1-[update reportid set maxid = 1511 where type = 1] -> 1
+[16:31:52] : [7]3:0-[update reportid set maxid = 1512 where type = 1] -> 1
+[16:31:53] : [7]1:0-[update reportid set maxid = 1513 where type = 1] -> 1
+[16:31:53] : [7]2:1-[update reportid set maxid = 1514 where type = 1] -> 1
+[16:31:53] : [7]2:0-[update reportid set maxid = 1515 where type = 1] -> 1
+[16:31:54] : [7]5:4-[update reportid set maxid = 1516 where type = 1] -> 1
+[16:31:54] : [7]5:3-[update reportid set maxid = 1517 where type = 1] -> 1
+[16:31:54] : [7]5:2-[update reportid set maxid = 9977 where type = 0] -> 1
+[16:31:54] : [7]5:1-[delete from `arenaBrp` where `index` = 9972 ] -> 1
+[16:31:54] : [7]5:0-[replace into `arenaBrp` values(844424930131970,9977,'大姨妈',255,2714,9965)] -> 1
+[16:31:54] : [13]2:1-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 27, 1376277, 1481817600)] -> 1
+[16:31:54] : [13]2:0-[REPLACE INTO `var` (`playerId`, `id`, `data`, `over`) VALUES (844424930131970, 26, 1481791313, 4294967295)] -> 1
