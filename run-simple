@@ -1,0 +1,86 @@
+#!/bin/sh
+dir="/data/run/run-s34-8000/"
+process=run-s34-8000
+#pid=`netstat -tnlp |grep ":8000"|awk '{print $7}'|awk -F"/" '{print $1}'`
+#kill -9 $pid
+#cd $dir
+#./bin/Release/Server.ASSS &
+#./bin/Debug/Server.ASSS &
+
+RETVAL=0
+start() {
+                echo -n "start $dir Server.Asss"
+                cd $dir
+                ulimit -S -c unlimited
+                . run.sh   >> /dev/null 2>&1 &
+                . jprun.sh   >> /dev/null 2>&1 &
+                        RETVAL=$?
+                [ $RETVAL -eq 0 ]&&echo '[ OK ]'||echo '[ failed ]'
+                echo
+                pgrep $process > /data/run/admin/log/$process.pid
+}
+stop() {
+                echo -n "stop $dir Server.Asss"
+                kill `cat /data/run/admin/log/$process.pid`&&echo "" >/data/run/admin/log/$process.pid 
+                kill `cat $dir/log/Server.pid`&&echo "" >$dir/log/Server.pid
+                kill `cat $dir/log/JsonProxy.pid`&&echo "" >$dir/log/JsonProxy.pid
+                        RETVAL=$?
+                [ $RETVAL -eq 0 ]&&echo '[ OK ]'||echo '[ failed ]'
+                echo
+}
+onestart() {
+		echo -n "check port server"
+		kill -0 `cat /data/run/admin/log/$process.pid`&&echo '[ failed ]'&&echo "run script is running now"&&exit
+		kill -0 `cat $dir/log/Server.pid`&&echo '[ failed ]'&&echo "servise is running now"&&exit
+		kill -0 `cat $dir/log/JsonProxy.pid`&&echo '[ failed ]'&&echo "JsonProxy is running now"&&exit
+		echo '[ OK ]'
+		echo -n "Initialization mysql"
+		cd $dir/sql
+		sh newall.sh
+                        RETVAL=$?
+                [ $RETVAL -eq 0 ]&&echo '[ OK ]'||echo '[ failed ]'
+                echo -n "start $dir Server.Asss"
+                ulimit -S - unlimited
+                . run.sh   >> /dev/null 2>&1 &
+                echo
+                pgrep $process > /data/run/admin/log/$process.pid
+                cd $dir
+                ulimit -S -c unlimited
+                . run.sh   >> /dev/null 2>&1 &
+                . jprun.sh   >> /dev/null 2>&1 &
+                        RETVAL=$?
+                [ $RETVAL -eq 0 ]&&echo '[ OK ]'||echo '[ failed ]'
+                echo
+                pgrep $process > /data/run/admin/log/$process.pid
+}
+reload() {
+		echo -n "reload $dir Server.Asss"
+		kill `cat $dir/log/Server.pid`
+		kill `cat $dir/log/JsonProxy.pid`
+	                RETVAL=$?
+                [ $RETVAL -eq 0 ]&&echo '[ OK ]'
+                echo
+}
+case "$1" in
+	start)
+		start
+		;;
+	stop)
+		stop
+		;;
+	onestart)
+		onestart
+		;;
+	reload)
+		reload	
+		;;
+	restart)
+	        stop
+		start
+		;;
+	*)
+		echo "Usage: $0 {start|stop|restart|onestart|reload}"
+		exit 1
+        	;;
+
+esac
